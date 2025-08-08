@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}Inicio · Biblioteca{% endblock %}
+{% block content %}
+<section class="p-4 bg-body-tertiary rounded">
+  <header class="text-center mb-4">
+    <h1 class="h3 mb-2">Sistema de Gestión de Biblioteca</h1>
+    <p class="mb-1">
+      En un contexto donde la organización y el acceso ágil a la información son críticos,
+      este sistema automatiza préstamos, devoluciones y el registro de usuarios y libros.
+    </p>
+    <p class="text-muted mb-0">
+      Desarrollado en Python con POO, encapsulamiento y manejo de errores para una operación robusta y escalable.
+    </p>
+  </header>
+
+  <div class="row g-3 mb-4">
+    <div class="col-12 col-md-4">
+      <div class="card h-100 text-center shadow-sm">
+        <div class="card-body">
+          <div class="display-6 fw-bold">{{ libros_count|default:"0" }}</div>
+          <div class="text-muted">Libros</div>
+        </div>
+        <div class="card-footer bg-transparent">
+          <a class="btn btn-sm btn-primary" href="{% url 'libros:list' %}">Ver catálogo</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4">
+      <div class="card h-100 text-center shadow-sm">
+        <div class="card-body">
+          <div class="display-6 fw-bold">{{ usuarios_count|default:"0" }}</div>
+          <div class="text-muted">Usuarios</div>
+        </div>
+        <div class="card-footer bg-transparent">
+          <a class="btn btn-sm btn-outline-primary" href="{% url 'usuarios:list' %}">Ver usuarios</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4">
+      <div class="card h-100 text-center shadow-sm">
+        <div class="card-body">
+          <div class="display-6 fw-bold">{{ prestamos_count|default:"0" }}</div>
+          <div class="text-muted">Préstamos</div>
+        </div>
+        <div class="card-footer bg-transparent">
+          <a class="btn btn-sm btn-outline-primary" href="{% url 'prestamos:list' %}">Ver préstamos</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="alert alert-info">
+    <ul class="mb-0">
+      <li>Entidades: <strong>Libro</strong>, <strong>Usuario</strong>, <strong>Préstamo</strong>.</li>
+      <li>Encapsulamiento y validaciones para proteger datos.</li>
+      <li>Manejo de errores ante entradas inesperadas.</li>
+      <li>Base lista para reportes, multas y notificaciones.</li>
+    </ul>
+  </div>
+</section>
+{% endblock %}

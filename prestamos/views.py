@@ -5,6 +5,9 @@ from django.urls import reverse, reverse_lazy
 from django.views.generic import ListView, CreateView, View
 from django.utils import timezone
 from django.db import transaction
+from libros.models import Libro
+from usuarios.models import Usuario
+from prestamos.models import Prestamo
 
 from .models import Prestamo
 from .forms import PrestamoCreateForm, DevolucionForm
@@ -67,4 +70,7 @@ class PrestamoDevolverView(View):
         except ValidationError as e:
             form.add_error(None, e.message if hasattr(e, "message") else e.messages)
             return render(request, self.template_name, {"prestamo": prestamo, "form": form})
+        
+
+
 

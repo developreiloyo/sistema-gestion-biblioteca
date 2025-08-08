@@ -1,9 +1,40 @@
 {% extends "base.html" %}
+{% block title %}{{ view.object|default_if_none:"Nuevo usuario" }} · Biblioteca{% endblock %}
 {% block content %}
-<h1>{{ view.object|default_if_none:"Nuevo usuario" }}</h1>
-<form method="post">{% csrf_token %}
-  {{ form.as_p }}
-  <button type="submit">Guardar</button>
-  <a href="{% url 'usuarios:list' %}">Cancelar</a>
+<h1 class="h3 mb-3">{{ view.object|default_if_none:"Nuevo usuario" }}</h1>
+
+<form method="post" class="card card-body shadow-sm">{% csrf_token %}
+  {% if form.non_field_errors %}
+    <div class="alert alert-danger">{{ form.non_field_errors }}</div>
+  {% endif %}
+
+  <div class="mb-3">
+    <label class="form-label">Nombre *</label>
+    {{ form.nombre }}
+    {% if form.nombre.help_text %}<div class="form-text">{{ form.nombre.help_text }}</div>{% endif %}
+    {% for e in form.nombre.errors %}<div class="invalid-feedback d-block">{{ e }}</div>{% endfor %}
+  </div>
+
+  <div class="mb-3">
+    <label class="form-label">Número *</label>
+    {{ form.numero }}
+    {% if form.numero.help_text %}<div class="form-text">{{ form.numero.help_text }}</div>{% endif %}
+    {% for e in form.numero.errors %}<div class="invalid-feedback d-block">{{ e }}</div>{% endfor %}
+  </div>
+
+  <div class="mb-3">
+    <label class="form-label">Max préstamos *</label>
+    {{ form.max_prestamos }}
+    {% if form.max_prestamos.help_text %}<div class="form-text">{{ form.max_prestamos.help_text }}</div>{% endif %}
+    {% for e in form.max_prestamos.errors %}<div class="invalid-feedback d-block">{{ e }}</div>{% endfor %}
+  </div>
+
+  <div class="d-flex gap-2">
+    <button class="btn btn-primary" type="submit">
+      <i class="bi bi-check2-circle"></i> Guardar
+    </button>
+    <a class="btn btn-outline-secondary" href="{% url 'usuarios:list' %}">Cancelar</a>
+  </div>
 </form>
 {% endblock %}
+
