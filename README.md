@@ -148,23 +148,17 @@ En settings.py, agrega en MIDDLEWARE (antes de CommonMiddleware):
 
 Define STATIC_ROOT en settings.py: 
 ```python
- 
- 
-1
 STATIC_ROOT = BASE_DIR / 'staticfiles'
  
  ```
-
 Ejecuta: 
 ``` bash
  
     python manage.py collectstatic
      
 ```
-     
-
  
-📌 Roadmap 
+## 9) 📌 Roadmap 
 
     Buscador en navbar (por título/autor/ISBN).
     Filtros de préstamos (abiertos, vencidos) y paginación con números.
