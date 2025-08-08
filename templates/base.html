@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><title>Biblioteca</title>
+</head>
+<body>
+  {% if messages %}
+    <ul>{% for m in messages %}<li>{{ m }}</li>{% endfor %}</ul>
+  {% endif %}
+  <nav>
+    <a href="/libros/">Libros</a> | <a href="/usuarios/">Usuarios</a> | <a href="/prestamos/">Préstamos</a>
+  </nav>
+  <hr>
+  {% block content %}{% endblock %}
+</body>
+</html>

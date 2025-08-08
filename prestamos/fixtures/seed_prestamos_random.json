@@ -1,0 +1,7012 @@
+[
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5001,
+    "fields": {
+      "usuario": 2001,
+      "libro": 1080,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5002,
+    "fields": {
+      "usuario": 2002,
+      "libro": 1012,
+      "fecha_prestamo": "2025-06-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5003,
+    "fields": {
+      "usuario": 2002,
+      "libro": 1032,
+      "fecha_prestamo": "2025-06-04",
+      "fecha_devolucion": "2025-06-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5004,
+    "fields": {
+      "usuario": 2004,
+      "libro": 1040,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": "2025-07-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5005,
+    "fields": {
+      "usuario": 2005,
+      "libro": 1010,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5006,
+    "fields": {
+      "usuario": 2006,
+      "libro": 1100,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": "2025-06-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5007,
+    "fields": {
+      "usuario": 2007,
+      "libro": 1031,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": "2025-04-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5008,
+    "fields": {
+      "usuario": 2008,
+      "libro": 1078,
+      "fecha_prestamo": "2025-04-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5009,
+    "fields": {
+      "usuario": 2009,
+      "libro": 1010,
+      "fecha_prestamo": "2025-05-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5010,
+    "fields": {
+      "usuario": 2009,
+      "libro": 1081,
+      "fecha_prestamo": "2025-06-12",
+      "fecha_devolucion": "2025-07-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5011,
+    "fields": {
+      "usuario": 2010,
+      "libro": 1058,
+      "fecha_prestamo": "2025-07-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5012,
+    "fields": {
+      "usuario": 2010,
+      "libro": 1073,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5013,
+    "fields": {
+      "usuario": 2011,
+      "libro": 1081,
+      "fecha_prestamo": "2025-05-20",
+      "fecha_devolucion": "2025-05-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5014,
+    "fields": {
+      "usuario": 2011,
+      "libro": 1061,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5015,
+    "fields": {
+      "usuario": 2012,
+      "libro": 1076,
+      "fecha_prestamo": "2025-04-17",
+      "fecha_devolucion": "2025-04-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5016,
+    "fields": {
+      "usuario": 2012,
+      "libro": 1040,
+      "fecha_prestamo": "2025-06-08",
+      "fecha_devolucion": "2025-06-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5017,
+    "fields": {
+      "usuario": 2013,
+      "libro": 1037,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5018,
+    "fields": {
+      "usuario": 2013,
+      "libro": 1012,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": "2025-07-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5019,
+    "fields": {
+      "usuario": 2014,
+      "libro": 1075,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5020,
+    "fields": {
+      "usuario": 2014,
+      "libro": 1095,
+      "fecha_prestamo": "2025-08-02",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5021,
+    "fields": {
+      "usuario": 2014,
+      "libro": 1074,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": "2025-07-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5022,
+    "fields": {
+      "usuario": 2015,
+      "libro": 1065,
+      "fecha_prestamo": "2025-04-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5023,
+    "fields": {
+      "usuario": 2016,
+      "libro": 1014,
+      "fecha_prestamo": "2025-07-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5024,
+    "fields": {
+      "usuario": 2016,
+      "libro": 1044,
+      "fecha_prestamo": "2025-07-10",
+      "fecha_devolucion": "2025-07-31"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5025,
+    "fields": {
+      "usuario": 2016,
+      "libro": 1023,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": "2025-04-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5026,
+    "fields": {
+      "usuario": 2017,
+      "libro": 1068,
+      "fecha_prestamo": "2025-06-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5027,
+    "fields": {
+      "usuario": 2017,
+      "libro": 1047,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5028,
+    "fields": {
+      "usuario": 2017,
+      "libro": 1050,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5029,
+    "fields": {
+      "usuario": 2019,
+      "libro": 1009,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": "2025-06-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5030,
+    "fields": {
+      "usuario": 2019,
+      "libro": 1050,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-06-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5031,
+    "fields": {
+      "usuario": 2020,
+      "libro": 1043,
+      "fecha_prestamo": "2025-04-20",
+      "fecha_devolucion": "2025-04-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5032,
+    "fields": {
+      "usuario": 2021,
+      "libro": 1040,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5033,
+    "fields": {
+      "usuario": 2021,
+      "libro": 1051,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": "2025-04-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5034,
+    "fields": {
+      "usuario": 2022,
+      "libro": 1072,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5035,
+    "fields": {
+      "usuario": 2023,
+      "libro": 1017,
+      "fecha_prestamo": "2025-07-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5036,
+    "fields": {
+      "usuario": 2025,
+      "libro": 1066,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5037,
+    "fields": {
+      "usuario": 2025,
+      "libro": 1024,
+      "fecha_prestamo": "2025-05-07",
+      "fecha_devolucion": "2025-06-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5038,
+    "fields": {
+      "usuario": 2025,
+      "libro": 1063,
+      "fecha_prestamo": "2025-05-04",
+      "fecha_devolucion": "2025-05-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5039,
+    "fields": {
+      "usuario": 2026,
+      "libro": 1010,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5040,
+    "fields": {
+      "usuario": 2028,
+      "libro": 1099,
+      "fecha_prestamo": "2025-06-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5041,
+    "fields": {
+      "usuario": 2028,
+      "libro": 1068,
+      "fecha_prestamo": "2025-04-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5042,
+    "fields": {
+      "usuario": 2029,
+      "libro": 1077,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": "2025-06-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5043,
+    "fields": {
+      "usuario": 2030,
+      "libro": 1099,
+      "fecha_prestamo": "2025-06-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5044,
+    "fields": {
+      "usuario": 2030,
+      "libro": 1022,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": "2025-07-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5045,
+    "fields": {
+      "usuario": 2031,
+      "libro": 1087,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": "2025-07-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5046,
+    "fields": {
+      "usuario": 2031,
+      "libro": 1079,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5047,
+    "fields": {
+      "usuario": 2032,
+      "libro": 1030,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5048,
+    "fields": {
+      "usuario": 2033,
+      "libro": 1025,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5049,
+    "fields": {
+      "usuario": 2033,
+      "libro": 1074,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": "2025-06-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5050,
+    "fields": {
+      "usuario": 2033,
+      "libro": 1100,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": "2025-06-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5051,
+    "fields": {
+      "usuario": 2034,
+      "libro": 1026,
+      "fecha_prestamo": "2025-07-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5052,
+    "fields": {
+      "usuario": 2035,
+      "libro": 1007,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5053,
+    "fields": {
+      "usuario": 2035,
+      "libro": 1071,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5054,
+    "fields": {
+      "usuario": 2037,
+      "libro": 1011,
+      "fecha_prestamo": "2025-07-16",
+      "fecha_devolucion": "2025-07-31"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5055,
+    "fields": {
+      "usuario": 2037,
+      "libro": 1066,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5056,
+    "fields": {
+      "usuario": 2039,
+      "libro": 1058,
+      "fecha_prestamo": "2025-08-01",
+      "fecha_devolucion": "2025-08-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5057,
+    "fields": {
+      "usuario": 2040,
+      "libro": 1007,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": "2025-06-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5058,
+    "fields": {
+      "usuario": 2041,
+      "libro": 1011,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": "2025-06-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5059,
+    "fields": {
+      "usuario": 2041,
+      "libro": 1013,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5060,
+    "fields": {
+      "usuario": 2041,
+      "libro": 1043,
+      "fecha_prestamo": "2025-07-20",
+      "fecha_devolucion": "2025-07-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5061,
+    "fields": {
+      "usuario": 2042,
+      "libro": 1061,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5062,
+    "fields": {
+      "usuario": 2042,
+      "libro": 1098,
+      "fecha_prestamo": "2025-07-09",
+      "fecha_devolucion": "2025-07-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5063,
+    "fields": {
+      "usuario": 2046,
+      "libro": 1028,
+      "fecha_prestamo": "2025-07-25",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5064,
+    "fields": {
+      "usuario": 2047,
+      "libro": 1015,
+      "fecha_prestamo": "2025-07-18",
+      "fecha_devolucion": "2025-07-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5065,
+    "fields": {
+      "usuario": 2047,
+      "libro": 1016,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-05-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5066,
+    "fields": {
+      "usuario": 2047,
+      "libro": 1080,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5067,
+    "fields": {
+      "usuario": 2048,
+      "libro": 1077,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5068,
+    "fields": {
+      "usuario": 2048,
+      "libro": 1074,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5069,
+    "fields": {
+      "usuario": 2048,
+      "libro": 1038,
+      "fecha_prestamo": "2025-06-03",
+      "fecha_devolucion": "2025-06-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5070,
+    "fields": {
+      "usuario": 2049,
+      "libro": 1074,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": "2025-06-24"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5071,
+    "fields": {
+      "usuario": 2051,
+      "libro": 1009,
+      "fecha_prestamo": "2025-06-16",
+      "fecha_devolucion": "2025-07-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5072,
+    "fields": {
+      "usuario": 2051,
+      "libro": 1065,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": "2025-07-17"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5073,
+    "fields": {
+      "usuario": 2052,
+      "libro": 1006,
+      "fecha_prestamo": "2025-06-30",
+      "fecha_devolucion": "2025-07-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5074,
+    "fields": {
+      "usuario": 2052,
+      "libro": 1033,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5075,
+    "fields": {
+      "usuario": 2052,
+      "libro": 1009,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": "2025-06-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5076,
+    "fields": {
+      "usuario": 2053,
+      "libro": 1014,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5077,
+    "fields": {
+      "usuario": 2053,
+      "libro": 1043,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": "2025-05-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5078,
+    "fields": {
+      "usuario": 2054,
+      "libro": 1083,
+      "fecha_prestamo": "2025-05-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5079,
+    "fields": {
+      "usuario": 2054,
+      "libro": 1088,
+      "fecha_prestamo": "2025-06-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5080,
+    "fields": {
+      "usuario": 2055,
+      "libro": 1081,
+      "fecha_prestamo": "2025-05-03",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5081,
+    "fields": {
+      "usuario": 2057,
+      "libro": 1005,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-06-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5082,
+    "fields": {
+      "usuario": 2057,
+      "libro": 1026,
+      "fecha_prestamo": "2025-08-01",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5083,
+    "fields": {
+      "usuario": 2057,
+      "libro": 1040,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": "2025-07-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5084,
+    "fields": {
+      "usuario": 2058,
+      "libro": 1033,
+      "fecha_prestamo": "2025-04-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5085,
+    "fields": {
+      "usuario": 2058,
+      "libro": 1025,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-06-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5086,
+    "fields": {
+      "usuario": 2058,
+      "libro": 1007,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5087,
+    "fields": {
+      "usuario": 2059,
+      "libro": 1016,
+      "fecha_prestamo": "2025-07-21",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5088,
+    "fields": {
+      "usuario": 2060,
+      "libro": 1096,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5089,
+    "fields": {
+      "usuario": 2060,
+      "libro": 1050,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5090,
+    "fields": {
+      "usuario": 2060,
+      "libro": 1064,
+      "fecha_prestamo": "2025-07-07",
+      "fecha_devolucion": "2025-08-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5091,
+    "fields": {
+      "usuario": 2061,
+      "libro": 1035,
+      "fecha_prestamo": "2025-07-21",
+      "fecha_devolucion": "2025-08-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5092,
+    "fields": {
+      "usuario": 2061,
+      "libro": 1011,
+      "fecha_prestamo": "2025-06-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5093,
+    "fields": {
+      "usuario": 2062,
+      "libro": 1070,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-05-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5094,
+    "fields": {
+      "usuario": 2063,
+      "libro": 1085,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-06-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5095,
+    "fields": {
+      "usuario": 2063,
+      "libro": 1092,
+      "fecha_prestamo": "2025-06-03",
+      "fecha_devolucion": "2025-06-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5096,
+    "fields": {
+      "usuario": 2064,
+      "libro": 1058,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5097,
+    "fields": {
+      "usuario": 2065,
+      "libro": 1079,
+      "fecha_prestamo": "2025-06-04",
+      "fecha_devolucion": "2025-06-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5098,
+    "fields": {
+      "usuario": 2065,
+      "libro": 1008,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5099,
+    "fields": {
+      "usuario": 2066,
+      "libro": 1047,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5100,
+    "fields": {
+      "usuario": 2066,
+      "libro": 1087,
+      "fecha_prestamo": "2025-04-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5101,
+    "fields": {
+      "usuario": 2066,
+      "libro": 1019,
+      "fecha_prestamo": "2025-07-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5102,
+    "fields": {
+      "usuario": 2067,
+      "libro": 1005,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": "2025-05-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5103,
+    "fields": {
+      "usuario": 2067,
+      "libro": 1083,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5104,
+    "fields": {
+      "usuario": 2067,
+      "libro": 1005,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": "2025-07-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5105,
+    "fields": {
+      "usuario": 2068,
+      "libro": 1048,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5106,
+    "fields": {
+      "usuario": 2068,
+      "libro": 1074,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": "2025-05-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5107,
+    "fields": {
+      "usuario": 2069,
+      "libro": 1084,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5108,
+    "fields": {
+      "usuario": 2071,
+      "libro": 1064,
+      "fecha_prestamo": "2025-06-15",
+      "fecha_devolucion": "2025-07-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5109,
+    "fields": {
+      "usuario": 2073,
+      "libro": 1100,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5110,
+    "fields": {
+      "usuario": 2073,
+      "libro": 1028,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": "2025-07-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5111,
+    "fields": {
+      "usuario": 2074,
+      "libro": 1026,
+      "fecha_prestamo": "2025-04-25",
+      "fecha_devolucion": "2025-04-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5112,
+    "fields": {
+      "usuario": 2074,
+      "libro": 1058,
+      "fecha_prestamo": "2025-05-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5113,
+    "fields": {
+      "usuario": 2074,
+      "libro": 1057,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5114,
+    "fields": {
+      "usuario": 2075,
+      "libro": 1086,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5115,
+    "fields": {
+      "usuario": 2075,
+      "libro": 1071,
+      "fecha_prestamo": "2025-06-18",
+      "fecha_devolucion": "2025-06-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5116,
+    "fields": {
+      "usuario": 2077,
+      "libro": 1091,
+      "fecha_prestamo": "2025-08-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5117,
+    "fields": {
+      "usuario": 2077,
+      "libro": 1023,
+      "fecha_prestamo": "2025-07-20",
+      "fecha_devolucion": "2025-07-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5118,
+    "fields": {
+      "usuario": 2079,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5119,
+    "fields": {
+      "usuario": 2081,
+      "libro": 1071,
+      "fecha_prestamo": "2025-06-22",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5120,
+    "fields": {
+      "usuario": 2082,
+      "libro": 1079,
+      "fecha_prestamo": "2025-08-01",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5121,
+    "fields": {
+      "usuario": 2083,
+      "libro": 1092,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": "2025-07-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5122,
+    "fields": {
+      "usuario": 2084,
+      "libro": 1074,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-04-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5123,
+    "fields": {
+      "usuario": 2084,
+      "libro": 1083,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-05-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5124,
+    "fields": {
+      "usuario": 2084,
+      "libro": 1067,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": "2025-06-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5125,
+    "fields": {
+      "usuario": 2085,
+      "libro": 1082,
+      "fecha_prestamo": "2025-06-24",
+      "fecha_devolucion": "2025-06-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5126,
+    "fields": {
+      "usuario": 2085,
+      "libro": 1056,
+      "fecha_prestamo": "2025-06-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5127,
+    "fields": {
+      "usuario": 2088,
+      "libro": 1039,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-31"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5128,
+    "fields": {
+      "usuario": 2089,
+      "libro": 1045,
+      "fecha_prestamo": "2025-06-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5129,
+    "fields": {
+      "usuario": 2091,
+      "libro": 1026,
+      "fecha_prestamo": "2025-06-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5130,
+    "fields": {
+      "usuario": 2091,
+      "libro": 1036,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5131,
+    "fields": {
+      "usuario": 2093,
+      "libro": 1076,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": "2025-07-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5132,
+    "fields": {
+      "usuario": 2094,
+      "libro": 1073,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5133,
+    "fields": {
+      "usuario": 2094,
+      "libro": 1004,
+      "fecha_prestamo": "2025-04-20",
+      "fecha_devolucion": "2025-05-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5134,
+    "fields": {
+      "usuario": 2095,
+      "libro": 1084,
+      "fecha_prestamo": "2025-05-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5135,
+    "fields": {
+      "usuario": 2095,
+      "libro": 1054,
+      "fecha_prestamo": "2025-06-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5136,
+    "fields": {
+      "usuario": 2096,
+      "libro": 1081,
+      "fecha_prestamo": "2025-06-18",
+      "fecha_devolucion": "2025-06-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5137,
+    "fields": {
+      "usuario": 2096,
+      "libro": 1062,
+      "fecha_prestamo": "2025-05-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5138,
+    "fields": {
+      "usuario": 2096,
+      "libro": 1088,
+      "fecha_prestamo": "2025-05-31",
+      "fecha_devolucion": "2025-06-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5139,
+    "fields": {
+      "usuario": 2098,
+      "libro": 1057,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": "2025-06-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5140,
+    "fields": {
+      "usuario": 2099,
+      "libro": 1078,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": "2025-05-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5141,
+    "fields": {
+      "usuario": 2099,
+      "libro": 1041,
+      "fecha_prestamo": "2025-07-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5142,
+    "fields": {
+      "usuario": 2100,
+      "libro": 1052,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5143,
+    "fields": {
+      "usuario": 2100,
+      "libro": 1066,
+      "fecha_prestamo": "2025-06-20",
+      "fecha_devolucion": "2025-06-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5144,
+    "fields": {
+      "usuario": 2101,
+      "libro": 1016,
+      "fecha_prestamo": "2025-05-14",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5145,
+    "fields": {
+      "usuario": 2104,
+      "libro": 1050,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5146,
+    "fields": {
+      "usuario": 2104,
+      "libro": 1032,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5147,
+    "fields": {
+      "usuario": 2105,
+      "libro": 1074,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": "2025-08-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5148,
+    "fields": {
+      "usuario": 2105,
+      "libro": 1021,
+      "fecha_prestamo": "2025-06-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5149,
+    "fields": {
+      "usuario": 2106,
+      "libro": 1064,
+      "fecha_prestamo": "2025-07-31",
+      "fecha_devolucion": "2025-08-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5150,
+    "fields": {
+      "usuario": 2108,
+      "libro": 1065,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5151,
+    "fields": {
+      "usuario": 2108,
+      "libro": 1028,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": "2025-06-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5152,
+    "fields": {
+      "usuario": 2108,
+      "libro": 1037,
+      "fecha_prestamo": "2025-06-12",
+      "fecha_devolucion": "2025-07-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5153,
+    "fields": {
+      "usuario": 2109,
+      "libro": 1037,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": "2025-06-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5154,
+    "fields": {
+      "usuario": 2109,
+      "libro": 1056,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5155,
+    "fields": {
+      "usuario": 2109,
+      "libro": 1094,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5156,
+    "fields": {
+      "usuario": 2110,
+      "libro": 1006,
+      "fecha_prestamo": "2025-05-31",
+      "fecha_devolucion": "2025-06-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5157,
+    "fields": {
+      "usuario": 2110,
+      "libro": 1025,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": "2025-05-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5158,
+    "fields": {
+      "usuario": 2111,
+      "libro": 1065,
+      "fecha_prestamo": "2025-06-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5159,
+    "fields": {
+      "usuario": 2111,
+      "libro": 1036,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5160,
+    "fields": {
+      "usuario": 2111,
+      "libro": 1088,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": "2025-07-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5161,
+    "fields": {
+      "usuario": 2112,
+      "libro": 1048,
+      "fecha_prestamo": "2025-07-20",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5162,
+    "fields": {
+      "usuario": 2112,
+      "libro": 1072,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5163,
+    "fields": {
+      "usuario": 2112,
+      "libro": 1026,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5164,
+    "fields": {
+      "usuario": 2116,
+      "libro": 1092,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5165,
+    "fields": {
+      "usuario": 2117,
+      "libro": 1020,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5166,
+    "fields": {
+      "usuario": 2117,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5167,
+    "fields": {
+      "usuario": 2117,
+      "libro": 1041,
+      "fecha_prestamo": "2025-04-30",
+      "fecha_devolucion": "2025-05-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5168,
+    "fields": {
+      "usuario": 2118,
+      "libro": 1076,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": "2025-06-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5169,
+    "fields": {
+      "usuario": 2118,
+      "libro": 1069,
+      "fecha_prestamo": "2025-06-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5170,
+    "fields": {
+      "usuario": 2119,
+      "libro": 1061,
+      "fecha_prestamo": "2025-07-23",
+      "fecha_devolucion": "2025-08-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5171,
+    "fields": {
+      "usuario": 2119,
+      "libro": 1087,
+      "fecha_prestamo": "2025-04-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5172,
+    "fields": {
+      "usuario": 2120,
+      "libro": 1093,
+      "fecha_prestamo": "2025-07-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5173,
+    "fields": {
+      "usuario": 2120,
+      "libro": 1004,
+      "fecha_prestamo": "2025-06-25",
+      "fecha_devolucion": "2025-07-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5174,
+    "fields": {
+      "usuario": 2121,
+      "libro": 1093,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-04-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5175,
+    "fields": {
+      "usuario": 2122,
+      "libro": 1019,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5176,
+    "fields": {
+      "usuario": 2122,
+      "libro": 1005,
+      "fecha_prestamo": "2025-06-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5177,
+    "fields": {
+      "usuario": 2122,
+      "libro": 1015,
+      "fecha_prestamo": "2025-05-04",
+      "fecha_devolucion": "2025-05-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5178,
+    "fields": {
+      "usuario": 2123,
+      "libro": 1020,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5179,
+    "fields": {
+      "usuario": 2124,
+      "libro": 1065,
+      "fecha_prestamo": "2025-07-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5180,
+    "fields": {
+      "usuario": 2124,
+      "libro": 1061,
+      "fecha_prestamo": "2025-07-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5181,
+    "fields": {
+      "usuario": 2124,
+      "libro": 1094,
+      "fecha_prestamo": "2025-04-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5182,
+    "fields": {
+      "usuario": 2125,
+      "libro": 1072,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5183,
+    "fields": {
+      "usuario": 2126,
+      "libro": 1068,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": "2025-06-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5184,
+    "fields": {
+      "usuario": 2126,
+      "libro": 1059,
+      "fecha_prestamo": "2025-08-04",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5185,
+    "fields": {
+      "usuario": 2126,
+      "libro": 1046,
+      "fecha_prestamo": "2025-07-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5186,
+    "fields": {
+      "usuario": 2127,
+      "libro": 1079,
+      "fecha_prestamo": "2025-06-10",
+      "fecha_devolucion": "2025-06-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5187,
+    "fields": {
+      "usuario": 2127,
+      "libro": 1036,
+      "fecha_prestamo": "2025-06-20",
+      "fecha_devolucion": "2025-06-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5188,
+    "fields": {
+      "usuario": 2128,
+      "libro": 1091,
+      "fecha_prestamo": "2025-05-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5189,
+    "fields": {
+      "usuario": 2128,
+      "libro": 1063,
+      "fecha_prestamo": "2025-05-20",
+      "fecha_devolucion": "2025-06-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5190,
+    "fields": {
+      "usuario": 2129,
+      "libro": 1037,
+      "fecha_prestamo": "2025-04-25",
+      "fecha_devolucion": "2025-05-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5191,
+    "fields": {
+      "usuario": 2129,
+      "libro": 1049,
+      "fecha_prestamo": "2025-08-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5192,
+    "fields": {
+      "usuario": 2130,
+      "libro": 1099,
+      "fecha_prestamo": "2025-07-21",
+      "fecha_devolucion": "2025-07-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5193,
+    "fields": {
+      "usuario": 2131,
+      "libro": 1092,
+      "fecha_prestamo": "2025-04-20",
+      "fecha_devolucion": "2025-05-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5194,
+    "fields": {
+      "usuario": 2131,
+      "libro": 1084,
+      "fecha_prestamo": "2025-05-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5195,
+    "fields": {
+      "usuario": 2132,
+      "libro": 1026,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5196,
+    "fields": {
+      "usuario": 2133,
+      "libro": 1090,
+      "fecha_prestamo": "2025-05-14",
+      "fecha_devolucion": "2025-06-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5197,
+    "fields": {
+      "usuario": 2133,
+      "libro": 1095,
+      "fecha_prestamo": "2025-06-24",
+      "fecha_devolucion": "2025-06-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5198,
+    "fields": {
+      "usuario": 2134,
+      "libro": 1082,
+      "fecha_prestamo": "2025-05-09",
+      "fecha_devolucion": "2025-05-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5199,
+    "fields": {
+      "usuario": 2135,
+      "libro": 1092,
+      "fecha_prestamo": "2025-06-09",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5200,
+    "fields": {
+      "usuario": 2136,
+      "libro": 1001,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5201,
+    "fields": {
+      "usuario": 2138,
+      "libro": 1084,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5202,
+    "fields": {
+      "usuario": 2138,
+      "libro": 1061,
+      "fecha_prestamo": "2025-06-10",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5203,
+    "fields": {
+      "usuario": 2138,
+      "libro": 1097,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-06-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5204,
+    "fields": {
+      "usuario": 2141,
+      "libro": 1074,
+      "fecha_prestamo": "2025-05-09",
+      "fecha_devolucion": "2025-06-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5205,
+    "fields": {
+      "usuario": 2141,
+      "libro": 1005,
+      "fecha_prestamo": "2025-08-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5206,
+    "fields": {
+      "usuario": 2142,
+      "libro": 1023,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5207,
+    "fields": {
+      "usuario": 2142,
+      "libro": 1051,
+      "fecha_prestamo": "2025-07-19",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5208,
+    "fields": {
+      "usuario": 2142,
+      "libro": 1096,
+      "fecha_prestamo": "2025-07-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5209,
+    "fields": {
+      "usuario": 2145,
+      "libro": 1073,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": "2025-07-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5210,
+    "fields": {
+      "usuario": 2145,
+      "libro": 1037,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5211,
+    "fields": {
+      "usuario": 2146,
+      "libro": 1068,
+      "fecha_prestamo": "2025-06-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5212,
+    "fields": {
+      "usuario": 2146,
+      "libro": 1018,
+      "fecha_prestamo": "2025-07-27",
+      "fecha_devolucion": "2025-08-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5213,
+    "fields": {
+      "usuario": 2147,
+      "libro": 1015,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": "2025-06-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5214,
+    "fields": {
+      "usuario": 2148,
+      "libro": 1092,
+      "fecha_prestamo": "2025-05-03",
+      "fecha_devolucion": "2025-05-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5215,
+    "fields": {
+      "usuario": 2148,
+      "libro": 1038,
+      "fecha_prestamo": "2025-06-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5216,
+    "fields": {
+      "usuario": 2149,
+      "libro": 1023,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5217,
+    "fields": {
+      "usuario": 2150,
+      "libro": 1055,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": "2025-06-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5218,
+    "fields": {
+      "usuario": 2150,
+      "libro": 1086,
+      "fecha_prestamo": "2025-04-22",
+      "fecha_devolucion": "2025-04-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5219,
+    "fields": {
+      "usuario": 2150,
+      "libro": 1062,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5220,
+    "fields": {
+      "usuario": 2152,
+      "libro": 1050,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5221,
+    "fields": {
+      "usuario": 2153,
+      "libro": 1039,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5222,
+    "fields": {
+      "usuario": 2153,
+      "libro": 1002,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5223,
+    "fields": {
+      "usuario": 2154,
+      "libro": 1008,
+      "fecha_prestamo": "2025-07-04",
+      "fecha_devolucion": "2025-07-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5224,
+    "fields": {
+      "usuario": 2155,
+      "libro": 1052,
+      "fecha_prestamo": "2025-07-06",
+      "fecha_devolucion": "2025-08-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5225,
+    "fields": {
+      "usuario": 2156,
+      "libro": 1099,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5226,
+    "fields": {
+      "usuario": 2156,
+      "libro": 1082,
+      "fecha_prestamo": "2025-08-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5227,
+    "fields": {
+      "usuario": 2157,
+      "libro": 1079,
+      "fecha_prestamo": "2025-05-08",
+      "fecha_devolucion": "2025-05-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5228,
+    "fields": {
+      "usuario": 2157,
+      "libro": 1062,
+      "fecha_prestamo": "2025-04-29",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5229,
+    "fields": {
+      "usuario": 2158,
+      "libro": 1054,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": "2025-07-24"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5230,
+    "fields": {
+      "usuario": 2159,
+      "libro": 1086,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": "2025-08-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5231,
+    "fields": {
+      "usuario": 2159,
+      "libro": 1088,
+      "fecha_prestamo": "2025-07-15",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5232,
+    "fields": {
+      "usuario": 2161,
+      "libro": 1068,
+      "fecha_prestamo": "2025-07-09",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5233,
+    "fields": {
+      "usuario": 2161,
+      "libro": 1073,
+      "fecha_prestamo": "2025-04-24",
+      "fecha_devolucion": "2025-05-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5234,
+    "fields": {
+      "usuario": 2161,
+      "libro": 1065,
+      "fecha_prestamo": "2025-05-05",
+      "fecha_devolucion": "2025-05-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5235,
+    "fields": {
+      "usuario": 2162,
+      "libro": 1042,
+      "fecha_prestamo": "2025-07-28",
+      "fecha_devolucion": "2025-08-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5236,
+    "fields": {
+      "usuario": 2163,
+      "libro": 1027,
+      "fecha_prestamo": "2025-07-10",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5237,
+    "fields": {
+      "usuario": 2163,
+      "libro": 1066,
+      "fecha_prestamo": "2025-06-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5238,
+    "fields": {
+      "usuario": 2164,
+      "libro": 1017,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": "2025-07-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5239,
+    "fields": {
+      "usuario": 2166,
+      "libro": 1060,
+      "fecha_prestamo": "2025-07-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5240,
+    "fields": {
+      "usuario": 2166,
+      "libro": 1093,
+      "fecha_prestamo": "2025-04-12",
+      "fecha_devolucion": "2025-05-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5241,
+    "fields": {
+      "usuario": 2168,
+      "libro": 1075,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-05-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5242,
+    "fields": {
+      "usuario": 2172,
+      "libro": 1005,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-06-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5243,
+    "fields": {
+      "usuario": 2172,
+      "libro": 1018,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5244,
+    "fields": {
+      "usuario": 2172,
+      "libro": 1094,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5245,
+    "fields": {
+      "usuario": 2173,
+      "libro": 1049,
+      "fecha_prestamo": "2025-06-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5246,
+    "fields": {
+      "usuario": 2173,
+      "libro": 1049,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": "2025-06-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5247,
+    "fields": {
+      "usuario": 2174,
+      "libro": 1084,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": "2025-08-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5248,
+    "fields": {
+      "usuario": 2175,
+      "libro": 1068,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5249,
+    "fields": {
+      "usuario": 2175,
+      "libro": 1029,
+      "fecha_prestamo": "2025-07-25",
+      "fecha_devolucion": "2025-07-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5250,
+    "fields": {
+      "usuario": 2175,
+      "libro": 1039,
+      "fecha_prestamo": "2025-06-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5251,
+    "fields": {
+      "usuario": 2176,
+      "libro": 1069,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5252,
+    "fields": {
+      "usuario": 2176,
+      "libro": 1032,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": "2025-06-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5253,
+    "fields": {
+      "usuario": 2176,
+      "libro": 1025,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5254,
+    "fields": {
+      "usuario": 2179,
+      "libro": 1079,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5255,
+    "fields": {
+      "usuario": 2179,
+      "libro": 1003,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": "2025-05-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5256,
+    "fields": {
+      "usuario": 2179,
+      "libro": 1077,
+      "fecha_prestamo": "2025-04-14",
+      "fecha_devolucion": "2025-05-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5257,
+    "fields": {
+      "usuario": 2181,
+      "libro": 1095,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": "2025-04-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5258,
+    "fields": {
+      "usuario": 2182,
+      "libro": 1097,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5259,
+    "fields": {
+      "usuario": 2183,
+      "libro": 1065,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-06-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5260,
+    "fields": {
+      "usuario": 2184,
+      "libro": 1074,
+      "fecha_prestamo": "2025-06-25",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5261,
+    "fields": {
+      "usuario": 2184,
+      "libro": 1042,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": "2025-05-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5262,
+    "fields": {
+      "usuario": 2185,
+      "libro": 1053,
+      "fecha_prestamo": "2025-05-18",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5263,
+    "fields": {
+      "usuario": 2186,
+      "libro": 1081,
+      "fecha_prestamo": "2025-07-05",
+      "fecha_devolucion": "2025-07-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5264,
+    "fields": {
+      "usuario": 2188,
+      "libro": 1083,
+      "fecha_prestamo": "2025-07-04",
+      "fecha_devolucion": "2025-07-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5265,
+    "fields": {
+      "usuario": 2188,
+      "libro": 1041,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5266,
+    "fields": {
+      "usuario": 2189,
+      "libro": 1049,
+      "fecha_prestamo": "2025-05-03",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5267,
+    "fields": {
+      "usuario": 2189,
+      "libro": 1061,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5268,
+    "fields": {
+      "usuario": 2190,
+      "libro": 1091,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5269,
+    "fields": {
+      "usuario": 2190,
+      "libro": 1008,
+      "fecha_prestamo": "2025-06-20",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5270,
+    "fields": {
+      "usuario": 2191,
+      "libro": 1068,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": "2025-05-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5271,
+    "fields": {
+      "usuario": 2191,
+      "libro": 1027,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5272,
+    "fields": {
+      "usuario": 2192,
+      "libro": 1048,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": "2025-05-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5273,
+    "fields": {
+      "usuario": 2192,
+      "libro": 1025,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-05-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5274,
+    "fields": {
+      "usuario": 2192,
+      "libro": 1078,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": "2025-06-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5275,
+    "fields": {
+      "usuario": 2193,
+      "libro": 1098,
+      "fecha_prestamo": "2025-06-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5276,
+    "fields": {
+      "usuario": 2194,
+      "libro": 1062,
+      "fecha_prestamo": "2025-05-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5277,
+    "fields": {
+      "usuario": 2195,
+      "libro": 1039,
+      "fecha_prestamo": "2025-08-04",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5278,
+    "fields": {
+      "usuario": 2195,
+      "libro": 1025,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": "2025-08-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5279,
+    "fields": {
+      "usuario": 2196,
+      "libro": 1032,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5280,
+    "fields": {
+      "usuario": 2196,
+      "libro": 1027,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5281,
+    "fields": {
+      "usuario": 2196,
+      "libro": 1071,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5282,
+    "fields": {
+      "usuario": 2197,
+      "libro": 1060,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5283,
+    "fields": {
+      "usuario": 2197,
+      "libro": 1040,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": "2025-06-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5284,
+    "fields": {
+      "usuario": 2197,
+      "libro": 1064,
+      "fecha_prestamo": "2025-06-08",
+      "fecha_devolucion": "2025-07-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5285,
+    "fields": {
+      "usuario": 2198,
+      "libro": 1098,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": "2025-08-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5286,
+    "fields": {
+      "usuario": 2198,
+      "libro": 1048,
+      "fecha_prestamo": "2025-05-20",
+      "fecha_devolucion": "2025-06-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5287,
+    "fields": {
+      "usuario": 2198,
+      "libro": 1029,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": "2025-07-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5288,
+    "fields": {
+      "usuario": 2199,
+      "libro": 1038,
+      "fecha_prestamo": "2025-04-29",
+      "fecha_devolucion": "2025-05-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5289,
+    "fields": {
+      "usuario": 2199,
+      "libro": 1049,
+      "fecha_prestamo": "2025-06-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5290,
+    "fields": {
+      "usuario": 2199,
+      "libro": 1064,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5291,
+    "fields": {
+      "usuario": 2200,
+      "libro": 1033,
+      "fecha_prestamo": "2025-07-16",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5292,
+    "fields": {
+      "usuario": 2200,
+      "libro": 1093,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5293,
+    "fields": {
+      "usuario": 2201,
+      "libro": 1022,
+      "fecha_prestamo": "2025-07-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5294,
+    "fields": {
+      "usuario": 2201,
+      "libro": 1022,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5295,
+    "fields": {
+      "usuario": 2201,
+      "libro": 1063,
+      "fecha_prestamo": "2025-05-03",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5296,
+    "fields": {
+      "usuario": 2202,
+      "libro": 1083,
+      "fecha_prestamo": "2025-04-17",
+      "fecha_devolucion": "2025-05-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5297,
+    "fields": {
+      "usuario": 2202,
+      "libro": 1010,
+      "fecha_prestamo": "2025-07-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5298,
+    "fields": {
+      "usuario": 2204,
+      "libro": 1018,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5299,
+    "fields": {
+      "usuario": 2204,
+      "libro": 1009,
+      "fecha_prestamo": "2025-07-09",
+      "fecha_devolucion": "2025-07-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5300,
+    "fields": {
+      "usuario": 2204,
+      "libro": 1065,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": "2025-06-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5301,
+    "fields": {
+      "usuario": 2205,
+      "libro": 1085,
+      "fecha_prestamo": "2025-06-11",
+      "fecha_devolucion": "2025-06-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5302,
+    "fields": {
+      "usuario": 2205,
+      "libro": 1071,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": "2025-06-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5303,
+    "fields": {
+      "usuario": 2205,
+      "libro": 1093,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": "2025-05-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5304,
+    "fields": {
+      "usuario": 2207,
+      "libro": 1023,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5305,
+    "fields": {
+      "usuario": 2207,
+      "libro": 1068,
+      "fecha_prestamo": "2025-04-29",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5306,
+    "fields": {
+      "usuario": 2207,
+      "libro": 1068,
+      "fecha_prestamo": "2025-05-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5307,
+    "fields": {
+      "usuario": 2208,
+      "libro": 1051,
+      "fecha_prestamo": "2025-04-20",
+      "fecha_devolucion": "2025-05-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5308,
+    "fields": {
+      "usuario": 2209,
+      "libro": 1073,
+      "fecha_prestamo": "2025-05-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5309,
+    "fields": {
+      "usuario": 2209,
+      "libro": 1029,
+      "fecha_prestamo": "2025-05-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5310,
+    "fields": {
+      "usuario": 2209,
+      "libro": 1011,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5311,
+    "fields": {
+      "usuario": 2212,
+      "libro": 1049,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": "2025-05-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5312,
+    "fields": {
+      "usuario": 2214,
+      "libro": 1011,
+      "fecha_prestamo": "2025-06-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5313,
+    "fields": {
+      "usuario": 2215,
+      "libro": 1073,
+      "fecha_prestamo": "2025-07-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5314,
+    "fields": {
+      "usuario": 2215,
+      "libro": 1068,
+      "fecha_prestamo": "2025-08-05",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5315,
+    "fields": {
+      "usuario": 2216,
+      "libro": 1035,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5316,
+    "fields": {
+      "usuario": 2216,
+      "libro": 1088,
+      "fecha_prestamo": "2025-08-06",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5317,
+    "fields": {
+      "usuario": 2216,
+      "libro": 1073,
+      "fecha_prestamo": "2025-07-03",
+      "fecha_devolucion": "2025-08-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5318,
+    "fields": {
+      "usuario": 2217,
+      "libro": 1003,
+      "fecha_prestamo": "2025-05-06",
+      "fecha_devolucion": "2025-05-31"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5319,
+    "fields": {
+      "usuario": 2217,
+      "libro": 1092,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": "2025-07-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5320,
+    "fields": {
+      "usuario": 2218,
+      "libro": 1021,
+      "fecha_prestamo": "2025-06-21",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5321,
+    "fields": {
+      "usuario": 2218,
+      "libro": 1050,
+      "fecha_prestamo": "2025-07-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5322,
+    "fields": {
+      "usuario": 2219,
+      "libro": 1050,
+      "fecha_prestamo": "2025-07-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5323,
+    "fields": {
+      "usuario": 2219,
+      "libro": 1089,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": "2025-08-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5324,
+    "fields": {
+      "usuario": 2220,
+      "libro": 1007,
+      "fecha_prestamo": "2025-04-22",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5325,
+    "fields": {
+      "usuario": 2220,
+      "libro": 1010,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5326,
+    "fields": {
+      "usuario": 2221,
+      "libro": 1077,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5327,
+    "fields": {
+      "usuario": 2221,
+      "libro": 1042,
+      "fecha_prestamo": "2025-04-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5328,
+    "fields": {
+      "usuario": 2222,
+      "libro": 1063,
+      "fecha_prestamo": "2025-05-09",
+      "fecha_devolucion": "2025-05-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5329,
+    "fields": {
+      "usuario": 2223,
+      "libro": 1024,
+      "fecha_prestamo": "2025-07-06",
+      "fecha_devolucion": "2025-07-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5330,
+    "fields": {
+      "usuario": 2223,
+      "libro": 1011,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5331,
+    "fields": {
+      "usuario": 2223,
+      "libro": 1032,
+      "fecha_prestamo": "2025-07-10",
+      "fecha_devolucion": "2025-07-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5332,
+    "fields": {
+      "usuario": 2224,
+      "libro": 1049,
+      "fecha_prestamo": "2025-07-10",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5333,
+    "fields": {
+      "usuario": 2226,
+      "libro": 1041,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": "2025-05-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5334,
+    "fields": {
+      "usuario": 2226,
+      "libro": 1040,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5335,
+    "fields": {
+      "usuario": 2226,
+      "libro": 1014,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": "2025-05-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5336,
+    "fields": {
+      "usuario": 2227,
+      "libro": 1072,
+      "fecha_prestamo": "2025-06-20",
+      "fecha_devolucion": "2025-06-24"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5337,
+    "fields": {
+      "usuario": 2227,
+      "libro": 1004,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": "2025-04-24"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5338,
+    "fields": {
+      "usuario": 2227,
+      "libro": 1077,
+      "fecha_prestamo": "2025-06-25",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5339,
+    "fields": {
+      "usuario": 2228,
+      "libro": 1002,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-06-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5340,
+    "fields": {
+      "usuario": 2230,
+      "libro": 1074,
+      "fecha_prestamo": "2025-06-15",
+      "fecha_devolucion": "2025-06-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5341,
+    "fields": {
+      "usuario": 2231,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-14",
+      "fecha_devolucion": "2025-05-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5342,
+    "fields": {
+      "usuario": 2232,
+      "libro": 1009,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5343,
+    "fields": {
+      "usuario": 2233,
+      "libro": 1062,
+      "fecha_prestamo": "2025-07-19",
+      "fecha_devolucion": "2025-07-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5344,
+    "fields": {
+      "usuario": 2233,
+      "libro": 1032,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5345,
+    "fields": {
+      "usuario": 2234,
+      "libro": 1059,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": "2025-04-24"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5346,
+    "fields": {
+      "usuario": 2235,
+      "libro": 1043,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5347,
+    "fields": {
+      "usuario": 2235,
+      "libro": 1043,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": "2025-07-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5348,
+    "fields": {
+      "usuario": 2235,
+      "libro": 1084,
+      "fecha_prestamo": "2025-06-25",
+      "fecha_devolucion": "2025-07-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5349,
+    "fields": {
+      "usuario": 2236,
+      "libro": 1062,
+      "fecha_prestamo": "2025-05-20",
+      "fecha_devolucion": "2025-06-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5350,
+    "fields": {
+      "usuario": 2237,
+      "libro": 1038,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5351,
+    "fields": {
+      "usuario": 2237,
+      "libro": 1063,
+      "fecha_prestamo": "2025-06-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5352,
+    "fields": {
+      "usuario": 2238,
+      "libro": 1049,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5353,
+    "fields": {
+      "usuario": 2238,
+      "libro": 1051,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5354,
+    "fields": {
+      "usuario": 2239,
+      "libro": 1076,
+      "fecha_prestamo": "2025-06-18",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5355,
+    "fields": {
+      "usuario": 2241,
+      "libro": 1091,
+      "fecha_prestamo": "2025-05-06",
+      "fecha_devolucion": "2025-05-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5356,
+    "fields": {
+      "usuario": 2241,
+      "libro": 1089,
+      "fecha_prestamo": "2025-04-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5357,
+    "fields": {
+      "usuario": 2241,
+      "libro": 1053,
+      "fecha_prestamo": "2025-07-05",
+      "fecha_devolucion": "2025-07-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5358,
+    "fields": {
+      "usuario": 2242,
+      "libro": 1031,
+      "fecha_prestamo": "2025-05-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5359,
+    "fields": {
+      "usuario": 2243,
+      "libro": 1049,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-05-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5360,
+    "fields": {
+      "usuario": 2243,
+      "libro": 1062,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": "2025-07-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5361,
+    "fields": {
+      "usuario": 2243,
+      "libro": 1089,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": "2025-06-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5362,
+    "fields": {
+      "usuario": 2244,
+      "libro": 1090,
+      "fecha_prestamo": "2025-08-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5363,
+    "fields": {
+      "usuario": 2247,
+      "libro": 1085,
+      "fecha_prestamo": "2025-07-04",
+      "fecha_devolucion": "2025-07-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5364,
+    "fields": {
+      "usuario": 2249,
+      "libro": 1083,
+      "fecha_prestamo": "2025-07-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5365,
+    "fields": {
+      "usuario": 2249,
+      "libro": 1097,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5366,
+    "fields": {
+      "usuario": 2250,
+      "libro": 1014,
+      "fecha_prestamo": "2025-04-11",
+      "fecha_devolucion": "2025-04-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5367,
+    "fields": {
+      "usuario": 2250,
+      "libro": 1066,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": "2025-08-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5368,
+    "fields": {
+      "usuario": 2250,
+      "libro": 1089,
+      "fecha_prestamo": "2025-06-22",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5369,
+    "fields": {
+      "usuario": 2251,
+      "libro": 1060,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5370,
+    "fields": {
+      "usuario": 2252,
+      "libro": 1045,
+      "fecha_prestamo": "2025-04-13",
+      "fecha_devolucion": "2025-04-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5371,
+    "fields": {
+      "usuario": 2253,
+      "libro": 1011,
+      "fecha_prestamo": "2025-04-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5372,
+    "fields": {
+      "usuario": 2254,
+      "libro": 1045,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5373,
+    "fields": {
+      "usuario": 2255,
+      "libro": 1067,
+      "fecha_prestamo": "2025-06-10",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5374,
+    "fields": {
+      "usuario": 2256,
+      "libro": 1093,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": "2025-07-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5375,
+    "fields": {
+      "usuario": 2256,
+      "libro": 1039,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5376,
+    "fields": {
+      "usuario": 2256,
+      "libro": 1015,
+      "fecha_prestamo": "2025-04-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5377,
+    "fields": {
+      "usuario": 2258,
+      "libro": 1095,
+      "fecha_prestamo": "2025-05-11",
+      "fecha_devolucion": "2025-05-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5378,
+    "fields": {
+      "usuario": 2260,
+      "libro": 1072,
+      "fecha_prestamo": "2025-06-03",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5379,
+    "fields": {
+      "usuario": 2260,
+      "libro": 1030,
+      "fecha_prestamo": "2025-07-21",
+      "fecha_devolucion": "2025-07-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5380,
+    "fields": {
+      "usuario": 2261,
+      "libro": 1082,
+      "fecha_prestamo": "2025-07-03",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5381,
+    "fields": {
+      "usuario": 2262,
+      "libro": 1079,
+      "fecha_prestamo": "2025-08-01",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5382,
+    "fields": {
+      "usuario": 2262,
+      "libro": 1055,
+      "fecha_prestamo": "2025-05-29",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5383,
+    "fields": {
+      "usuario": 2263,
+      "libro": 1036,
+      "fecha_prestamo": "2025-07-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5384,
+    "fields": {
+      "usuario": 2265,
+      "libro": 1014,
+      "fecha_prestamo": "2025-07-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5385,
+    "fields": {
+      "usuario": 2265,
+      "libro": 1024,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": "2025-06-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5386,
+    "fields": {
+      "usuario": 2267,
+      "libro": 1086,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5387,
+    "fields": {
+      "usuario": 2267,
+      "libro": 1041,
+      "fecha_prestamo": "2025-06-25",
+      "fecha_devolucion": "2025-07-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5388,
+    "fields": {
+      "usuario": 2269,
+      "libro": 1046,
+      "fecha_prestamo": "2025-07-27",
+      "fecha_devolucion": "2025-08-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5389,
+    "fields": {
+      "usuario": 2270,
+      "libro": 1079,
+      "fecha_prestamo": "2025-06-24",
+      "fecha_devolucion": "2025-06-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5390,
+    "fields": {
+      "usuario": 2270,
+      "libro": 1041,
+      "fecha_prestamo": "2025-04-25",
+      "fecha_devolucion": "2025-04-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5391,
+    "fields": {
+      "usuario": 2272,
+      "libro": 1089,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": "2025-05-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5392,
+    "fields": {
+      "usuario": 2273,
+      "libro": 1074,
+      "fecha_prestamo": "2025-05-29",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5393,
+    "fields": {
+      "usuario": 2274,
+      "libro": 1072,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5394,
+    "fields": {
+      "usuario": 2276,
+      "libro": 1058,
+      "fecha_prestamo": "2025-06-28",
+      "fecha_devolucion": "2025-07-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5395,
+    "fields": {
+      "usuario": 2278,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5396,
+    "fields": {
+      "usuario": 2278,
+      "libro": 1072,
+      "fecha_prestamo": "2025-06-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5397,
+    "fields": {
+      "usuario": 2278,
+      "libro": 1053,
+      "fecha_prestamo": "2025-07-06",
+      "fecha_devolucion": "2025-07-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5398,
+    "fields": {
+      "usuario": 2279,
+      "libro": 1063,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5399,
+    "fields": {
+      "usuario": 2279,
+      "libro": 1098,
+      "fecha_prestamo": "2025-05-08",
+      "fecha_devolucion": "2025-05-17"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5400,
+    "fields": {
+      "usuario": 2279,
+      "libro": 1029,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": "2025-07-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5401,
+    "fields": {
+      "usuario": 2280,
+      "libro": 1073,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5402,
+    "fields": {
+      "usuario": 2280,
+      "libro": 1064,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": "2025-07-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5403,
+    "fields": {
+      "usuario": 2280,
+      "libro": 1015,
+      "fecha_prestamo": "2025-05-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5404,
+    "fields": {
+      "usuario": 2281,
+      "libro": 1070,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5405,
+    "fields": {
+      "usuario": 2281,
+      "libro": 1098,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5406,
+    "fields": {
+      "usuario": 2282,
+      "libro": 1014,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5407,
+    "fields": {
+      "usuario": 2282,
+      "libro": 1097,
+      "fecha_prestamo": "2025-05-11",
+      "fecha_devolucion": "2025-05-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5408,
+    "fields": {
+      "usuario": 2282,
+      "libro": 1058,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": "2025-06-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5409,
+    "fields": {
+      "usuario": 2284,
+      "libro": 1016,
+      "fecha_prestamo": "2025-07-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5410,
+    "fields": {
+      "usuario": 2284,
+      "libro": 1027,
+      "fecha_prestamo": "2025-07-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5411,
+    "fields": {
+      "usuario": 2284,
+      "libro": 1089,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5412,
+    "fields": {
+      "usuario": 2285,
+      "libro": 1081,
+      "fecha_prestamo": "2025-06-03",
+      "fecha_devolucion": "2025-06-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5413,
+    "fields": {
+      "usuario": 2285,
+      "libro": 1027,
+      "fecha_prestamo": "2025-07-23",
+      "fecha_devolucion": "2025-07-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5414,
+    "fields": {
+      "usuario": 2286,
+      "libro": 1069,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": "2025-05-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5415,
+    "fields": {
+      "usuario": 2286,
+      "libro": 1042,
+      "fecha_prestamo": "2025-07-09",
+      "fecha_devolucion": "2025-07-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5416,
+    "fields": {
+      "usuario": 2287,
+      "libro": 1066,
+      "fecha_prestamo": "2025-08-03",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5417,
+    "fields": {
+      "usuario": 2287,
+      "libro": 1013,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5418,
+    "fields": {
+      "usuario": 2288,
+      "libro": 1008,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5419,
+    "fields": {
+      "usuario": 2288,
+      "libro": 1017,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5420,
+    "fields": {
+      "usuario": 2288,
+      "libro": 1032,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5421,
+    "fields": {
+      "usuario": 2290,
+      "libro": 1063,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": "2025-05-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5422,
+    "fields": {
+      "usuario": 2290,
+      "libro": 1081,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5423,
+    "fields": {
+      "usuario": 2290,
+      "libro": 1082,
+      "fecha_prestamo": "2025-07-20",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5424,
+    "fields": {
+      "usuario": 2292,
+      "libro": 1066,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5425,
+    "fields": {
+      "usuario": 2292,
+      "libro": 1048,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5426,
+    "fields": {
+      "usuario": 2292,
+      "libro": 1042,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5427,
+    "fields": {
+      "usuario": 2294,
+      "libro": 1082,
+      "fecha_prestamo": "2025-07-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5428,
+    "fields": {
+      "usuario": 2294,
+      "libro": 1009,
+      "fecha_prestamo": "2025-07-20",
+      "fecha_devolucion": "2025-07-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5429,
+    "fields": {
+      "usuario": 2294,
+      "libro": 1055,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": "2025-08-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5430,
+    "fields": {
+      "usuario": 2295,
+      "libro": 1037,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": "2025-05-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5431,
+    "fields": {
+      "usuario": 2295,
+      "libro": 1073,
+      "fecha_prestamo": "2025-07-28",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5432,
+    "fields": {
+      "usuario": 2296,
+      "libro": 1098,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-05-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5433,
+    "fields": {
+      "usuario": 2296,
+      "libro": 1059,
+      "fecha_prestamo": "2025-04-12",
+      "fecha_devolucion": "2025-05-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5434,
+    "fields": {
+      "usuario": 2297,
+      "libro": 1057,
+      "fecha_prestamo": "2025-06-07",
+      "fecha_devolucion": "2025-06-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5435,
+    "fields": {
+      "usuario": 2298,
+      "libro": 1089,
+      "fecha_prestamo": "2025-08-04",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5436,
+    "fields": {
+      "usuario": 2299,
+      "libro": 1021,
+      "fecha_prestamo": "2025-07-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5437,
+    "fields": {
+      "usuario": 2300,
+      "libro": 1012,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": "2025-07-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5438,
+    "fields": {
+      "usuario": 2300,
+      "libro": 1048,
+      "fecha_prestamo": "2025-07-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5439,
+    "fields": {
+      "usuario": 2301,
+      "libro": 1007,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5440,
+    "fields": {
+      "usuario": 2302,
+      "libro": 1055,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": "2025-07-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5441,
+    "fields": {
+      "usuario": 2304,
+      "libro": 1062,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-04-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5442,
+    "fields": {
+      "usuario": 2305,
+      "libro": 1088,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": "2025-06-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5443,
+    "fields": {
+      "usuario": 2305,
+      "libro": 1044,
+      "fecha_prestamo": "2025-07-23",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5444,
+    "fields": {
+      "usuario": 2306,
+      "libro": 1089,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": "2025-05-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5445,
+    "fields": {
+      "usuario": 2306,
+      "libro": 1050,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5446,
+    "fields": {
+      "usuario": 2306,
+      "libro": 1014,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": "2025-05-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5447,
+    "fields": {
+      "usuario": 2307,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5448,
+    "fields": {
+      "usuario": 2309,
+      "libro": 1009,
+      "fecha_prestamo": "2025-06-16",
+      "fecha_devolucion": "2025-07-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5449,
+    "fields": {
+      "usuario": 2310,
+      "libro": 1057,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5450,
+    "fields": {
+      "usuario": 2311,
+      "libro": 1053,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5451,
+    "fields": {
+      "usuario": 2312,
+      "libro": 1012,
+      "fecha_prestamo": "2025-08-02",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5452,
+    "fields": {
+      "usuario": 2314,
+      "libro": 1045,
+      "fecha_prestamo": "2025-06-03",
+      "fecha_devolucion": "2025-06-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5453,
+    "fields": {
+      "usuario": 2314,
+      "libro": 1032,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5454,
+    "fields": {
+      "usuario": 2314,
+      "libro": 1032,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5455,
+    "fields": {
+      "usuario": 2315,
+      "libro": 1100,
+      "fecha_prestamo": "2025-07-07",
+      "fecha_devolucion": "2025-08-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5456,
+    "fields": {
+      "usuario": 2315,
+      "libro": 1085,
+      "fecha_prestamo": "2025-07-31",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5457,
+    "fields": {
+      "usuario": 2316,
+      "libro": 1096,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": "2025-06-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5458,
+    "fields": {
+      "usuario": 2317,
+      "libro": 1064,
+      "fecha_prestamo": "2025-05-29",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5459,
+    "fields": {
+      "usuario": 2319,
+      "libro": 1002,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5460,
+    "fields": {
+      "usuario": 2319,
+      "libro": 1017,
+      "fecha_prestamo": "2025-05-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5461,
+    "fields": {
+      "usuario": 2320,
+      "libro": 1047,
+      "fecha_prestamo": "2025-06-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5462,
+    "fields": {
+      "usuario": 2320,
+      "libro": 1098,
+      "fecha_prestamo": "2025-06-09",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5463,
+    "fields": {
+      "usuario": 2320,
+      "libro": 1099,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-04-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5464,
+    "fields": {
+      "usuario": 2322,
+      "libro": 1028,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5465,
+    "fields": {
+      "usuario": 2322,
+      "libro": 1051,
+      "fecha_prestamo": "2025-06-13",
+      "fecha_devolucion": "2025-07-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5466,
+    "fields": {
+      "usuario": 2323,
+      "libro": 1055,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": "2025-07-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5467,
+    "fields": {
+      "usuario": 2323,
+      "libro": 1069,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5468,
+    "fields": {
+      "usuario": 2323,
+      "libro": 1036,
+      "fecha_prestamo": "2025-04-20",
+      "fecha_devolucion": "2025-05-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5469,
+    "fields": {
+      "usuario": 2324,
+      "libro": 1020,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": "2025-07-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5470,
+    "fields": {
+      "usuario": 2325,
+      "libro": 1098,
+      "fecha_prestamo": "2025-07-25",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5471,
+    "fields": {
+      "usuario": 2325,
+      "libro": 1083,
+      "fecha_prestamo": "2025-04-18",
+      "fecha_devolucion": "2025-05-02"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5472,
+    "fields": {
+      "usuario": 2326,
+      "libro": 1031,
+      "fecha_prestamo": "2025-04-17",
+      "fecha_devolucion": "2025-05-17"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5473,
+    "fields": {
+      "usuario": 2326,
+      "libro": 1056,
+      "fecha_prestamo": "2025-04-24",
+      "fecha_devolucion": "2025-05-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5474,
+    "fields": {
+      "usuario": 2328,
+      "libro": 1086,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5475,
+    "fields": {
+      "usuario": 2329,
+      "libro": 1016,
+      "fecha_prestamo": "2025-04-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5476,
+    "fields": {
+      "usuario": 2331,
+      "libro": 1064,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": "2025-06-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5477,
+    "fields": {
+      "usuario": 2332,
+      "libro": 1034,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5478,
+    "fields": {
+      "usuario": 2332,
+      "libro": 1100,
+      "fecha_prestamo": "2025-07-30",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5479,
+    "fields": {
+      "usuario": 2335,
+      "libro": 1055,
+      "fecha_prestamo": "2025-05-14",
+      "fecha_devolucion": "2025-05-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5480,
+    "fields": {
+      "usuario": 2337,
+      "libro": 1059,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": "2025-06-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5481,
+    "fields": {
+      "usuario": 2337,
+      "libro": 1073,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-10"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5482,
+    "fields": {
+      "usuario": 2337,
+      "libro": 1099,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5483,
+    "fields": {
+      "usuario": 2338,
+      "libro": 1093,
+      "fecha_prestamo": "2025-04-24",
+      "fecha_devolucion": "2025-05-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5484,
+    "fields": {
+      "usuario": 2338,
+      "libro": 1001,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5485,
+    "fields": {
+      "usuario": 2340,
+      "libro": 1006,
+      "fecha_prestamo": "2025-06-09",
+      "fecha_devolucion": "2025-07-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5486,
+    "fields": {
+      "usuario": 2341,
+      "libro": 1023,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5487,
+    "fields": {
+      "usuario": 2343,
+      "libro": 1092,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5488,
+    "fields": {
+      "usuario": 2343,
+      "libro": 1029,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": "2025-06-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5489,
+    "fields": {
+      "usuario": 2344,
+      "libro": 1035,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": "2025-08-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5490,
+    "fields": {
+      "usuario": 2344,
+      "libro": 1016,
+      "fecha_prestamo": "2025-06-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5491,
+    "fields": {
+      "usuario": 2347,
+      "libro": 1067,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5492,
+    "fields": {
+      "usuario": 2349,
+      "libro": 1037,
+      "fecha_prestamo": "2025-07-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5493,
+    "fields": {
+      "usuario": 2350,
+      "libro": 1012,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": "2025-07-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5494,
+    "fields": {
+      "usuario": 2351,
+      "libro": 1038,
+      "fecha_prestamo": "2025-06-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5495,
+    "fields": {
+      "usuario": 2352,
+      "libro": 1060,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": "2025-06-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5496,
+    "fields": {
+      "usuario": 2353,
+      "libro": 1094,
+      "fecha_prestamo": "2025-08-03",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5497,
+    "fields": {
+      "usuario": 2355,
+      "libro": 1001,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5498,
+    "fields": {
+      "usuario": 2356,
+      "libro": 1082,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5499,
+    "fields": {
+      "usuario": 2356,
+      "libro": 1002,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": "2025-06-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5500,
+    "fields": {
+      "usuario": 2357,
+      "libro": 1095,
+      "fecha_prestamo": "2025-07-12",
+      "fecha_devolucion": "2025-07-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5501,
+    "fields": {
+      "usuario": 2358,
+      "libro": 1031,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": "2025-06-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5502,
+    "fields": {
+      "usuario": 2358,
+      "libro": 1019,
+      "fecha_prestamo": "2025-07-10",
+      "fecha_devolucion": "2025-07-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5503,
+    "fields": {
+      "usuario": 2359,
+      "libro": 1067,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5504,
+    "fields": {
+      "usuario": 2360,
+      "libro": 1059,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5505,
+    "fields": {
+      "usuario": 2360,
+      "libro": 1065,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5506,
+    "fields": {
+      "usuario": 2361,
+      "libro": 1010,
+      "fecha_prestamo": "2025-06-24",
+      "fecha_devolucion": "2025-07-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5507,
+    "fields": {
+      "usuario": 2362,
+      "libro": 1031,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-05-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5508,
+    "fields": {
+      "usuario": 2363,
+      "libro": 1090,
+      "fecha_prestamo": "2025-07-25",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5509,
+    "fields": {
+      "usuario": 2363,
+      "libro": 1041,
+      "fecha_prestamo": "2025-06-06",
+      "fecha_devolucion": "2025-06-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5510,
+    "fields": {
+      "usuario": 2363,
+      "libro": 1026,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5511,
+    "fields": {
+      "usuario": 2365,
+      "libro": 1014,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": "2025-05-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5512,
+    "fields": {
+      "usuario": 2366,
+      "libro": 1016,
+      "fecha_prestamo": "2025-06-17",
+      "fecha_devolucion": "2025-07-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5513,
+    "fields": {
+      "usuario": 2366,
+      "libro": 1027,
+      "fecha_prestamo": "2025-06-06",
+      "fecha_devolucion": "2025-06-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5514,
+    "fields": {
+      "usuario": 2366,
+      "libro": 1016,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": "2025-05-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5515,
+    "fields": {
+      "usuario": 2367,
+      "libro": 1091,
+      "fecha_prestamo": "2025-07-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5516,
+    "fields": {
+      "usuario": 2367,
+      "libro": 1028,
+      "fecha_prestamo": "2025-07-25",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5517,
+    "fields": {
+      "usuario": 2368,
+      "libro": 1012,
+      "fecha_prestamo": "2025-07-10",
+      "fecha_devolucion": "2025-07-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5518,
+    "fields": {
+      "usuario": 2369,
+      "libro": 1066,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5519,
+    "fields": {
+      "usuario": 2370,
+      "libro": 1023,
+      "fecha_prestamo": "2025-04-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5520,
+    "fields": {
+      "usuario": 2371,
+      "libro": 1072,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5521,
+    "fields": {
+      "usuario": 2371,
+      "libro": 1060,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5522,
+    "fields": {
+      "usuario": 2371,
+      "libro": 1018,
+      "fecha_prestamo": "2025-04-25",
+      "fecha_devolucion": "2025-05-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5523,
+    "fields": {
+      "usuario": 2372,
+      "libro": 1017,
+      "fecha_prestamo": "2025-05-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5524,
+    "fields": {
+      "usuario": 2373,
+      "libro": 1088,
+      "fecha_prestamo": "2025-06-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5525,
+    "fields": {
+      "usuario": 2373,
+      "libro": 1011,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": "2025-07-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5526,
+    "fields": {
+      "usuario": 2377,
+      "libro": 1083,
+      "fecha_prestamo": "2025-06-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5527,
+    "fields": {
+      "usuario": 2379,
+      "libro": 1016,
+      "fecha_prestamo": "2025-04-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5528,
+    "fields": {
+      "usuario": 2379,
+      "libro": 1007,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5529,
+    "fields": {
+      "usuario": 2380,
+      "libro": 1093,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": "2025-06-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5530,
+    "fields": {
+      "usuario": 2381,
+      "libro": 1023,
+      "fecha_prestamo": "2025-05-25",
+      "fecha_devolucion": "2025-05-31"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5531,
+    "fields": {
+      "usuario": 2381,
+      "libro": 1036,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": "2025-05-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5532,
+    "fields": {
+      "usuario": 2381,
+      "libro": 1005,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5533,
+    "fields": {
+      "usuario": 2382,
+      "libro": 1083,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-06-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5534,
+    "fields": {
+      "usuario": 2383,
+      "libro": 1008,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": "2025-04-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5535,
+    "fields": {
+      "usuario": 2383,
+      "libro": 1054,
+      "fecha_prestamo": "2025-05-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5536,
+    "fields": {
+      "usuario": 2383,
+      "libro": 1068,
+      "fecha_prestamo": "2025-05-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5537,
+    "fields": {
+      "usuario": 2385,
+      "libro": 1092,
+      "fecha_prestamo": "2025-05-25",
+      "fecha_devolucion": "2025-06-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5538,
+    "fields": {
+      "usuario": 2385,
+      "libro": 1063,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5539,
+    "fields": {
+      "usuario": 2385,
+      "libro": 1065,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": "2025-05-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5540,
+    "fields": {
+      "usuario": 2387,
+      "libro": 1077,
+      "fecha_prestamo": "2025-05-08",
+      "fecha_devolucion": "2025-06-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5541,
+    "fields": {
+      "usuario": 2387,
+      "libro": 1100,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": "2025-05-31"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5542,
+    "fields": {
+      "usuario": 2388,
+      "libro": 1046,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": "2025-07-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5543,
+    "fields": {
+      "usuario": 2388,
+      "libro": 1021,
+      "fecha_prestamo": "2025-04-22",
+      "fecha_devolucion": "2025-04-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5544,
+    "fields": {
+      "usuario": 2389,
+      "libro": 1069,
+      "fecha_prestamo": "2025-07-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5545,
+    "fields": {
+      "usuario": 2390,
+      "libro": 1008,
+      "fecha_prestamo": "2025-07-16",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5546,
+    "fields": {
+      "usuario": 2390,
+      "libro": 1029,
+      "fecha_prestamo": "2025-06-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5547,
+    "fields": {
+      "usuario": 2391,
+      "libro": 1046,
+      "fecha_prestamo": "2025-08-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5548,
+    "fields": {
+      "usuario": 2392,
+      "libro": 1023,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5549,
+    "fields": {
+      "usuario": 2393,
+      "libro": 1090,
+      "fecha_prestamo": "2025-05-25",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5550,
+    "fields": {
+      "usuario": 2393,
+      "libro": 1004,
+      "fecha_prestamo": "2025-07-09",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5551,
+    "fields": {
+      "usuario": 2394,
+      "libro": 1073,
+      "fecha_prestamo": "2025-05-04",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5552,
+    "fields": {
+      "usuario": 2395,
+      "libro": 1070,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": "2025-05-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5553,
+    "fields": {
+      "usuario": 2395,
+      "libro": 1012,
+      "fecha_prestamo": "2025-04-17",
+      "fecha_devolucion": "2025-04-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5554,
+    "fields": {
+      "usuario": 2395,
+      "libro": 1003,
+      "fecha_prestamo": "2025-06-16",
+      "fecha_devolucion": "2025-06-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5555,
+    "fields": {
+      "usuario": 2396,
+      "libro": 1026,
+      "fecha_prestamo": "2025-07-22",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5556,
+    "fields": {
+      "usuario": 2396,
+      "libro": 1023,
+      "fecha_prestamo": "2025-08-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5557,
+    "fields": {
+      "usuario": 2397,
+      "libro": 1008,
+      "fecha_prestamo": "2025-04-12",
+      "fecha_devolucion": "2025-05-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5558,
+    "fields": {
+      "usuario": 2397,
+      "libro": 1019,
+      "fecha_prestamo": "2025-07-18",
+      "fecha_devolucion": "2025-08-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5559,
+    "fields": {
+      "usuario": 2398,
+      "libro": 1010,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5560,
+    "fields": {
+      "usuario": 2399,
+      "libro": 1076,
+      "fecha_prestamo": "2025-04-22",
+      "fecha_devolucion": "2025-05-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5561,
+    "fields": {
+      "usuario": 2399,
+      "libro": 1018,
+      "fecha_prestamo": "2025-04-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5562,
+    "fields": {
+      "usuario": 2399,
+      "libro": 1056,
+      "fecha_prestamo": "2025-07-20",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5563,
+    "fields": {
+      "usuario": 2400,
+      "libro": 1084,
+      "fecha_prestamo": "2025-05-20",
+      "fecha_devolucion": "2025-06-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5564,
+    "fields": {
+      "usuario": 2400,
+      "libro": 1089,
+      "fecha_prestamo": "2025-08-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5565,
+    "fields": {
+      "usuario": 2400,
+      "libro": 1046,
+      "fecha_prestamo": "2025-05-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5566,
+    "fields": {
+      "usuario": 2401,
+      "libro": 1049,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5567,
+    "fields": {
+      "usuario": 2402,
+      "libro": 1017,
+      "fecha_prestamo": "2025-05-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5568,
+    "fields": {
+      "usuario": 2403,
+      "libro": 1099,
+      "fecha_prestamo": "2025-06-21",
+      "fecha_devolucion": "2025-07-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5569,
+    "fields": {
+      "usuario": 2403,
+      "libro": 1041,
+      "fecha_prestamo": "2025-08-05",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5570,
+    "fields": {
+      "usuario": 2403,
+      "libro": 1079,
+      "fecha_prestamo": "2025-05-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5571,
+    "fields": {
+      "usuario": 2405,
+      "libro": 1019,
+      "fecha_prestamo": "2025-05-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5572,
+    "fields": {
+      "usuario": 2405,
+      "libro": 1031,
+      "fecha_prestamo": "2025-05-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5573,
+    "fields": {
+      "usuario": 2405,
+      "libro": 1022,
+      "fecha_prestamo": "2025-06-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5574,
+    "fields": {
+      "usuario": 2407,
+      "libro": 1058,
+      "fecha_prestamo": "2025-04-11",
+      "fecha_devolucion": "2025-04-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5575,
+    "fields": {
+      "usuario": 2407,
+      "libro": 1089,
+      "fecha_prestamo": "2025-04-18",
+      "fecha_devolucion": "2025-05-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5576,
+    "fields": {
+      "usuario": 2411,
+      "libro": 1057,
+      "fecha_prestamo": "2025-07-12",
+      "fecha_devolucion": "2025-07-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5577,
+    "fields": {
+      "usuario": 2412,
+      "libro": 1064,
+      "fecha_prestamo": "2025-07-31",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5578,
+    "fields": {
+      "usuario": 2412,
+      "libro": 1049,
+      "fecha_prestamo": "2025-04-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5579,
+    "fields": {
+      "usuario": 2412,
+      "libro": 1074,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5580,
+    "fields": {
+      "usuario": 2413,
+      "libro": 1021,
+      "fecha_prestamo": "2025-06-06",
+      "fecha_devolucion": "2025-07-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5581,
+    "fields": {
+      "usuario": 2415,
+      "libro": 1003,
+      "fecha_prestamo": "2025-05-20",
+      "fecha_devolucion": "2025-05-24"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5582,
+    "fields": {
+      "usuario": 2415,
+      "libro": 1010,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5583,
+    "fields": {
+      "usuario": 2416,
+      "libro": 1094,
+      "fecha_prestamo": "2025-04-19",
+      "fecha_devolucion": "2025-05-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5584,
+    "fields": {
+      "usuario": 2418,
+      "libro": 1077,
+      "fecha_prestamo": "2025-06-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5585,
+    "fields": {
+      "usuario": 2420,
+      "libro": 1084,
+      "fecha_prestamo": "2025-05-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5586,
+    "fields": {
+      "usuario": 2421,
+      "libro": 1021,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-04-23"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5587,
+    "fields": {
+      "usuario": 2421,
+      "libro": 1025,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5588,
+    "fields": {
+      "usuario": 2421,
+      "libro": 1093,
+      "fecha_prestamo": "2025-08-06",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5589,
+    "fields": {
+      "usuario": 2422,
+      "libro": 1085,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-05-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5590,
+    "fields": {
+      "usuario": 2422,
+      "libro": 1007,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": "2025-06-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5591,
+    "fields": {
+      "usuario": 2423,
+      "libro": 1020,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-04-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5592,
+    "fields": {
+      "usuario": 2423,
+      "libro": 1012,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5593,
+    "fields": {
+      "usuario": 2423,
+      "libro": 1081,
+      "fecha_prestamo": "2025-06-25",
+      "fecha_devolucion": "2025-06-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5594,
+    "fields": {
+      "usuario": 2425,
+      "libro": 1022,
+      "fecha_prestamo": "2025-06-30",
+      "fecha_devolucion": "2025-07-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5595,
+    "fields": {
+      "usuario": 2426,
+      "libro": 1015,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5596,
+    "fields": {
+      "usuario": 2427,
+      "libro": 1063,
+      "fecha_prestamo": "2025-08-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5597,
+    "fields": {
+      "usuario": 2427,
+      "libro": 1012,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": "2025-07-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5598,
+    "fields": {
+      "usuario": 2427,
+      "libro": 1048,
+      "fecha_prestamo": "2025-08-01",
+      "fecha_devolucion": "2025-08-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5599,
+    "fields": {
+      "usuario": 2428,
+      "libro": 1006,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": "2025-05-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5600,
+    "fields": {
+      "usuario": 2428,
+      "libro": 1029,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": "2025-07-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5601,
+    "fields": {
+      "usuario": 2428,
+      "libro": 1020,
+      "fecha_prestamo": "2025-07-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5602,
+    "fields": {
+      "usuario": 2431,
+      "libro": 1070,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5603,
+    "fields": {
+      "usuario": 2431,
+      "libro": 1076,
+      "fecha_prestamo": "2025-05-09",
+      "fecha_devolucion": "2025-06-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5604,
+    "fields": {
+      "usuario": 2432,
+      "libro": 1067,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5605,
+    "fields": {
+      "usuario": 2433,
+      "libro": 1061,
+      "fecha_prestamo": "2025-06-22",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5606,
+    "fields": {
+      "usuario": 2433,
+      "libro": 1061,
+      "fecha_prestamo": "2025-05-18",
+      "fecha_devolucion": "2025-06-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5607,
+    "fields": {
+      "usuario": 2435,
+      "libro": 1016,
+      "fecha_prestamo": "2025-07-15",
+      "fecha_devolucion": "2025-07-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5608,
+    "fields": {
+      "usuario": 2436,
+      "libro": 1025,
+      "fecha_prestamo": "2025-04-26",
+      "fecha_devolucion": "2025-04-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5609,
+    "fields": {
+      "usuario": 2437,
+      "libro": 1026,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5610,
+    "fields": {
+      "usuario": 2437,
+      "libro": 1077,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": "2025-06-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5611,
+    "fields": {
+      "usuario": 2437,
+      "libro": 1009,
+      "fecha_prestamo": "2025-04-21",
+      "fecha_devolucion": "2025-05-04"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5612,
+    "fields": {
+      "usuario": 2438,
+      "libro": 1036,
+      "fecha_prestamo": "2025-06-15",
+      "fecha_devolucion": "2025-07-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5613,
+    "fields": {
+      "usuario": 2438,
+      "libro": 1002,
+      "fecha_prestamo": "2025-07-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5614,
+    "fields": {
+      "usuario": 2439,
+      "libro": 1015,
+      "fecha_prestamo": "2025-06-02",
+      "fecha_devolucion": "2025-06-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5615,
+    "fields": {
+      "usuario": 2439,
+      "libro": 1076,
+      "fecha_prestamo": "2025-06-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5616,
+    "fields": {
+      "usuario": 2439,
+      "libro": 1013,
+      "fecha_prestamo": "2025-08-06",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5617,
+    "fields": {
+      "usuario": 2441,
+      "libro": 1069,
+      "fecha_prestamo": "2025-07-31",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5618,
+    "fields": {
+      "usuario": 2441,
+      "libro": 1034,
+      "fecha_prestamo": "2025-05-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5619,
+    "fields": {
+      "usuario": 2442,
+      "libro": 1005,
+      "fecha_prestamo": "2025-05-02",
+      "fecha_devolucion": "2025-05-07"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5620,
+    "fields": {
+      "usuario": 2442,
+      "libro": 1080,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5621,
+    "fields": {
+      "usuario": 2442,
+      "libro": 1052,
+      "fecha_prestamo": "2025-04-14",
+      "fecha_devolucion": "2025-05-13"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5622,
+    "fields": {
+      "usuario": 2443,
+      "libro": 1089,
+      "fecha_prestamo": "2025-05-10",
+      "fecha_devolucion": "2025-05-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5623,
+    "fields": {
+      "usuario": 2444,
+      "libro": 1048,
+      "fecha_prestamo": "2025-04-12",
+      "fecha_devolucion": "2025-05-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5624,
+    "fields": {
+      "usuario": 2445,
+      "libro": 1040,
+      "fecha_prestamo": "2025-05-15",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5625,
+    "fields": {
+      "usuario": 2445,
+      "libro": 1090,
+      "fecha_prestamo": "2025-07-06",
+      "fecha_devolucion": "2025-08-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5626,
+    "fields": {
+      "usuario": 2446,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5627,
+    "fields": {
+      "usuario": 2447,
+      "libro": 1100,
+      "fecha_prestamo": "2025-07-24",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5628,
+    "fields": {
+      "usuario": 2448,
+      "libro": 1078,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": "2025-07-16"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5629,
+    "fields": {
+      "usuario": 2449,
+      "libro": 1053,
+      "fecha_prestamo": "2025-07-13",
+      "fecha_devolucion": "2025-07-30"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5630,
+    "fields": {
+      "usuario": 2450,
+      "libro": 1008,
+      "fecha_prestamo": "2025-06-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5631,
+    "fields": {
+      "usuario": 2450,
+      "libro": 1009,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5632,
+    "fields": {
+      "usuario": 2451,
+      "libro": 1018,
+      "fecha_prestamo": "2025-07-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5633,
+    "fields": {
+      "usuario": 2451,
+      "libro": 1073,
+      "fecha_prestamo": "2025-04-13",
+      "fecha_devolucion": "2025-05-12"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5634,
+    "fields": {
+      "usuario": 2451,
+      "libro": 1026,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": "2025-07-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5635,
+    "fields": {
+      "usuario": 2452,
+      "libro": 1007,
+      "fecha_prestamo": "2025-08-05",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5636,
+    "fields": {
+      "usuario": 2452,
+      "libro": 1036,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5637,
+    "fields": {
+      "usuario": 2452,
+      "libro": 1065,
+      "fecha_prestamo": "2025-05-30",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5638,
+    "fields": {
+      "usuario": 2455,
+      "libro": 1048,
+      "fecha_prestamo": "2025-06-11",
+      "fecha_devolucion": "2025-06-17"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5639,
+    "fields": {
+      "usuario": 2456,
+      "libro": 1076,
+      "fecha_prestamo": "2025-06-19",
+      "fecha_devolucion": "2025-06-25"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5640,
+    "fields": {
+      "usuario": 2456,
+      "libro": 1034,
+      "fecha_prestamo": "2025-07-14",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5641,
+    "fields": {
+      "usuario": 2456,
+      "libro": 1012,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-05-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5642,
+    "fields": {
+      "usuario": 2458,
+      "libro": 1029,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": "2025-07-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5643,
+    "fields": {
+      "usuario": 2459,
+      "libro": 1084,
+      "fecha_prestamo": "2025-06-01",
+      "fecha_devolucion": "2025-06-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5644,
+    "fields": {
+      "usuario": 2459,
+      "libro": 1100,
+      "fecha_prestamo": "2025-07-17",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5645,
+    "fields": {
+      "usuario": 2460,
+      "libro": 1017,
+      "fecha_prestamo": "2025-07-01",
+      "fecha_devolucion": "2025-07-27"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5646,
+    "fields": {
+      "usuario": 2462,
+      "libro": 1033,
+      "fecha_prestamo": "2025-06-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5647,
+    "fields": {
+      "usuario": 2463,
+      "libro": 1092,
+      "fecha_prestamo": "2025-07-09",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5648,
+    "fields": {
+      "usuario": 2463,
+      "libro": 1055,
+      "fecha_prestamo": "2025-08-02",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5649,
+    "fields": {
+      "usuario": 2464,
+      "libro": 1033,
+      "fecha_prestamo": "2025-05-07",
+      "fecha_devolucion": "2025-05-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5650,
+    "fields": {
+      "usuario": 2465,
+      "libro": 1075,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": "2025-05-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5651,
+    "fields": {
+      "usuario": 2465,
+      "libro": 1048,
+      "fecha_prestamo": "2025-06-20",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5652,
+    "fields": {
+      "usuario": 2465,
+      "libro": 1078,
+      "fecha_prestamo": "2025-05-16",
+      "fecha_devolucion": "2025-05-20"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5653,
+    "fields": {
+      "usuario": 2466,
+      "libro": 1009,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5654,
+    "fields": {
+      "usuario": 2466,
+      "libro": 1082,
+      "fecha_prestamo": "2025-05-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5655,
+    "fields": {
+      "usuario": 2466,
+      "libro": 1034,
+      "fecha_prestamo": "2025-07-02",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5656,
+    "fields": {
+      "usuario": 2467,
+      "libro": 1039,
+      "fecha_prestamo": "2025-05-04",
+      "fecha_devolucion": "2025-05-29"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5657,
+    "fields": {
+      "usuario": 2467,
+      "libro": 1031,
+      "fecha_prestamo": "2025-08-03",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5658,
+    "fields": {
+      "usuario": 2468,
+      "libro": 1052,
+      "fecha_prestamo": "2025-07-03",
+      "fecha_devolucion": "2025-07-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5659,
+    "fields": {
+      "usuario": 2468,
+      "libro": 1093,
+      "fecha_prestamo": "2025-04-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5660,
+    "fields": {
+      "usuario": 2469,
+      "libro": 1034,
+      "fecha_prestamo": "2025-08-04",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5661,
+    "fields": {
+      "usuario": 2469,
+      "libro": 1095,
+      "fecha_prestamo": "2025-04-14",
+      "fecha_devolucion": "2025-05-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5662,
+    "fields": {
+      "usuario": 2470,
+      "libro": 1044,
+      "fecha_prestamo": "2025-07-11",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5663,
+    "fields": {
+      "usuario": 2471,
+      "libro": 1086,
+      "fecha_prestamo": "2025-05-25",
+      "fecha_devolucion": "2025-06-22"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5664,
+    "fields": {
+      "usuario": 2471,
+      "libro": 1022,
+      "fecha_prestamo": "2025-07-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5665,
+    "fields": {
+      "usuario": 2471,
+      "libro": 1072,
+      "fecha_prestamo": "2025-05-03",
+      "fecha_devolucion": "2025-05-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5666,
+    "fields": {
+      "usuario": 2472,
+      "libro": 1095,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5667,
+    "fields": {
+      "usuario": 2473,
+      "libro": 1088,
+      "fecha_prestamo": "2025-08-03",
+      "fecha_devolucion": "2025-08-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5668,
+    "fields": {
+      "usuario": 2474,
+      "libro": 1046,
+      "fecha_prestamo": "2025-05-08",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5669,
+    "fields": {
+      "usuario": 2475,
+      "libro": 1054,
+      "fecha_prestamo": "2025-07-19",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5670,
+    "fields": {
+      "usuario": 2475,
+      "libro": 1048,
+      "fecha_prestamo": "2025-05-13",
+      "fecha_devolucion": "2025-05-28"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5671,
+    "fields": {
+      "usuario": 2477,
+      "libro": 1007,
+      "fecha_prestamo": "2025-07-29",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5672,
+    "fields": {
+      "usuario": 2479,
+      "libro": 1025,
+      "fecha_prestamo": "2025-06-13",
+      "fecha_devolucion": "2025-07-05"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5673,
+    "fields": {
+      "usuario": 2479,
+      "libro": 1049,
+      "fecha_prestamo": "2025-06-16",
+      "fecha_devolucion": "2025-06-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5674,
+    "fields": {
+      "usuario": 2479,
+      "libro": 1020,
+      "fecha_prestamo": "2025-04-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5675,
+    "fields": {
+      "usuario": 2480,
+      "libro": 1053,
+      "fecha_prestamo": "2025-06-21",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5676,
+    "fields": {
+      "usuario": 2480,
+      "libro": 1059,
+      "fecha_prestamo": "2025-04-28",
+      "fecha_devolucion": "2025-05-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5677,
+    "fields": {
+      "usuario": 2481,
+      "libro": 1100,
+      "fecha_prestamo": "2025-04-20",
+      "fecha_devolucion": "2025-05-11"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5678,
+    "fields": {
+      "usuario": 2482,
+      "libro": 1041,
+      "fecha_prestamo": "2025-06-30",
+      "fecha_devolucion": "2025-07-15"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5679,
+    "fields": {
+      "usuario": 2483,
+      "libro": 1027,
+      "fecha_prestamo": "2025-07-16",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5680,
+    "fields": {
+      "usuario": 2483,
+      "libro": 1074,
+      "fecha_prestamo": "2025-07-16",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5681,
+    "fields": {
+      "usuario": 2486,
+      "libro": 1082,
+      "fecha_prestamo": "2025-06-03",
+      "fecha_devolucion": "2025-06-19"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5682,
+    "fields": {
+      "usuario": 2486,
+      "libro": 1050,
+      "fecha_prestamo": "2025-04-10",
+      "fecha_devolucion": "2025-04-17"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5683,
+    "fields": {
+      "usuario": 2486,
+      "libro": 1094,
+      "fecha_prestamo": "2025-05-27",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5684,
+    "fields": {
+      "usuario": 2487,
+      "libro": 1097,
+      "fecha_prestamo": "2025-07-25",
+      "fecha_devolucion": "2025-07-26"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5685,
+    "fields": {
+      "usuario": 2489,
+      "libro": 1094,
+      "fecha_prestamo": "2025-05-11",
+      "fecha_devolucion": "2025-06-09"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5686,
+    "fields": {
+      "usuario": 2489,
+      "libro": 1045,
+      "fecha_prestamo": "2025-05-19",
+      "fecha_devolucion": "2025-06-01"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5687,
+    "fields": {
+      "usuario": 2490,
+      "libro": 1022,
+      "fecha_prestamo": "2025-04-18",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5688,
+    "fields": {
+      "usuario": 2490,
+      "libro": 1039,
+      "fecha_prestamo": "2025-05-17",
+      "fecha_devolucion": "2025-06-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5689,
+    "fields": {
+      "usuario": 2491,
+      "libro": 1068,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": "2025-06-14"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5690,
+    "fields": {
+      "usuario": 2491,
+      "libro": 1018,
+      "fecha_prestamo": "2025-05-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5691,
+    "fields": {
+      "usuario": 2492,
+      "libro": 1046,
+      "fecha_prestamo": "2025-07-15",
+      "fecha_devolucion": "2025-08-08"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5692,
+    "fields": {
+      "usuario": 2492,
+      "libro": 1052,
+      "fecha_prestamo": "2025-04-12",
+      "fecha_devolucion": "2025-05-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5693,
+    "fields": {
+      "usuario": 2492,
+      "libro": 1017,
+      "fecha_prestamo": "2025-05-07",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5694,
+    "fields": {
+      "usuario": 2493,
+      "libro": 1016,
+      "fecha_prestamo": "2025-05-26",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5695,
+    "fields": {
+      "usuario": 2495,
+      "libro": 1082,
+      "fecha_prestamo": "2025-05-12",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5696,
+    "fields": {
+      "usuario": 2495,
+      "libro": 1080,
+      "fecha_prestamo": "2025-04-16",
+      "fecha_devolucion": "2025-04-18"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5697,
+    "fields": {
+      "usuario": 2495,
+      "libro": 1085,
+      "fecha_prestamo": "2025-04-23",
+      "fecha_devolucion": null
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5698,
+    "fields": {
+      "usuario": 2499,
+      "libro": 1057,
+      "fecha_prestamo": "2025-05-28",
+      "fecha_devolucion": "2025-06-06"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5699,
+    "fields": {
+      "usuario": 2500,
+      "libro": 1090,
+      "fecha_prestamo": "2025-04-29",
+      "fecha_devolucion": "2025-05-21"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5700,
+    "fields": {
+      "usuario": 2500,
+      "libro": 1081,
+      "fecha_prestamo": "2025-04-11",
+      "fecha_devolucion": "2025-05-03"
+    }
+  },
+  {
+    "model": "prestamos.prestamo",
+    "pk": 5701,
+    "fields": {
+      "usuario": 2500,
+      "libro": 1013,
+      "fecha_prestamo": "2025-07-03",
+      "fecha_devolucion": "2025-07-23"
+    }
+  }
+]

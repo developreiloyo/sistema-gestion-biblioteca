@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Devolver préstamo #{{ prestamo.id }}</h1>
+<p>Libro: <b>{{ prestamo.libro.titulo }}</b> — Usuario: <b>{{ prestamo.usuario.nombre }}</b></p>
+<form method="post">{% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit">Confirmar devolución</button>
+  <a href="{% url 'prestamos:list' %}">Cancelar</a>
+</form>
+{% endblock %}
+

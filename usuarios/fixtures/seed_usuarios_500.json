@@ -1,0 +1,4502 @@
+[
+  {
+    "model": "usuarios.usuario",
+    "pk": 2001,
+    "fields": {
+      "nombre": "Abril Jiménez",
+      "numero": "500000",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2002,
+    "fields": {
+      "nombre": "Emilia Morales",
+      "numero": "500001",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2003,
+    "fields": {
+      "nombre": "Santiago Cruz",
+      "numero": "500002",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2004,
+    "fields": {
+      "nombre": "Bruno Guerrero",
+      "numero": "500003",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2005,
+    "fields": {
+      "nombre": "Elena Sánchez",
+      "numero": "500004",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2006,
+    "fields": {
+      "nombre": "Eva Sánchez",
+      "numero": "500005",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2007,
+    "fields": {
+      "nombre": "Mateo Araya",
+      "numero": "500006",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2008,
+    "fields": {
+      "nombre": "Paula Salazar",
+      "numero": "500007",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2009,
+    "fields": {
+      "nombre": "Joaquín Delgado",
+      "numero": "500008",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2010,
+    "fields": {
+      "nombre": "Eva Navarro",
+      "numero": "500009",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2011,
+    "fields": {
+      "nombre": "Sara Herrera",
+      "numero": "500010",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2012,
+    "fields": {
+      "nombre": "Rodrigo Molina",
+      "numero": "500011",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2013,
+    "fields": {
+      "nombre": "Juan Vega",
+      "numero": "500012",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2014,
+    "fields": {
+      "nombre": "Valentina Carrasco",
+      "numero": "500013",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2015,
+    "fields": {
+      "nombre": "Isabella Pineda",
+      "numero": "500014",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2016,
+    "fields": {
+      "nombre": "Mía Guerrero",
+      "numero": "500015",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2017,
+    "fields": {
+      "nombre": "Daniel Morales",
+      "numero": "500016",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2018,
+    "fields": {
+      "nombre": "Catalina Vargas",
+      "numero": "500017",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2019,
+    "fields": {
+      "nombre": "Axel Castillo",
+      "numero": "500018",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2020,
+    "fields": {
+      "nombre": "Elena Paredes",
+      "numero": "500019",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2021,
+    "fields": {
+      "nombre": "Daniela Silva",
+      "numero": "500020",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2022,
+    "fields": {
+      "nombre": "Samuel Fernández",
+      "numero": "500021",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2023,
+    "fields": {
+      "nombre": "Daniel Cruz",
+      "numero": "500022",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2024,
+    "fields": {
+      "nombre": "Carolina Vega",
+      "numero": "500023",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2025,
+    "fields": {
+      "nombre": "Santiago Hernández",
+      "numero": "500024",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2026,
+    "fields": {
+      "nombre": "Renata Delgado",
+      "numero": "500025",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2027,
+    "fields": {
+      "nombre": "Gael Rojas",
+      "numero": "500026",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2028,
+    "fields": {
+      "nombre": "Diego Torres",
+      "numero": "500027",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2029,
+    "fields": {
+      "nombre": "Zoe Vargas",
+      "numero": "500028",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2030,
+    "fields": {
+      "nombre": "Lucía Cruz",
+      "numero": "500029",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2031,
+    "fields": {
+      "nombre": "Mateo Sánchez",
+      "numero": "500030",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2032,
+    "fields": {
+      "nombre": "Abril Rodríguez",
+      "numero": "500031",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2033,
+    "fields": {
+      "nombre": "Abril González",
+      "numero": "500032",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2034,
+    "fields": {
+      "nombre": "Carolina Araya",
+      "numero": "500033",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2035,
+    "fields": {
+      "nombre": "Lucas López",
+      "numero": "500034",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2036,
+    "fields": {
+      "nombre": "Valentina Bermúdez",
+      "numero": "500035",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2037,
+    "fields": {
+      "nombre": "Isabella Cabrera",
+      "numero": "500036",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2038,
+    "fields": {
+      "nombre": "Mía Gómez",
+      "numero": "500037",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2039,
+    "fields": {
+      "nombre": "Eva Peña",
+      "numero": "500038",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2040,
+    "fields": {
+      "nombre": "Paula Paredes",
+      "numero": "500039",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2041,
+    "fields": {
+      "nombre": "Emma Díaz",
+      "numero": "500040",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2042,
+    "fields": {
+      "nombre": "Liam Paredes",
+      "numero": "500041",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2043,
+    "fields": {
+      "nombre": "Felipe Campos",
+      "numero": "500042",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2044,
+    "fields": {
+      "nombre": "Catalina Cabrera",
+      "numero": "500043",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2045,
+    "fields": {
+      "nombre": "María Herrera",
+      "numero": "500044",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2046,
+    "fields": {
+      "nombre": "Sara Valencia",
+      "numero": "500045",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2047,
+    "fields": {
+      "nombre": "Lucía Salazar",
+      "numero": "500046",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2048,
+    "fields": {
+      "nombre": "Paula Pérez",
+      "numero": "500047",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2049,
+    "fields": {
+      "nombre": "Martina Silva",
+      "numero": "500048",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2050,
+    "fields": {
+      "nombre": "Andrés Méndez",
+      "numero": "500049",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2051,
+    "fields": {
+      "nombre": "Emma Peña",
+      "numero": "500050",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2052,
+    "fields": {
+      "nombre": "Sara Romero",
+      "numero": "500051",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2053,
+    "fields": {
+      "nombre": "Daniela León",
+      "numero": "500052",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2054,
+    "fields": {
+      "nombre": "María Navarro",
+      "numero": "500053",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2055,
+    "fields": {
+      "nombre": "Daniel Peña",
+      "numero": "500054",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2056,
+    "fields": {
+      "nombre": "Mía Vargas",
+      "numero": "500055",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2057,
+    "fields": {
+      "nombre": "Daniela Pineda",
+      "numero": "500056",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2058,
+    "fields": {
+      "nombre": "Elena Herrera",
+      "numero": "500057",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2059,
+    "fields": {
+      "nombre": "Lucas Paredes",
+      "numero": "500058",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2060,
+    "fields": {
+      "nombre": "Daniel Cabrera",
+      "numero": "500059",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2061,
+    "fields": {
+      "nombre": "Mateo Cabrera",
+      "numero": "500060",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2062,
+    "fields": {
+      "nombre": "Valentina Rojas",
+      "numero": "500061",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2063,
+    "fields": {
+      "nombre": "Nicolás Castillo",
+      "numero": "500062",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2064,
+    "fields": {
+      "nombre": "Thiago Pineda",
+      "numero": "500063",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2065,
+    "fields": {
+      "nombre": "Victoria Morales",
+      "numero": "500064",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2066,
+    "fields": {
+      "nombre": "Iker Araya",
+      "numero": "500065",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2067,
+    "fields": {
+      "nombre": "David Guerrero",
+      "numero": "500066",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2068,
+    "fields": {
+      "nombre": "Bruno Cortés",
+      "numero": "500067",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2069,
+    "fields": {
+      "nombre": "Lucía Suárez",
+      "numero": "500068",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2070,
+    "fields": {
+      "nombre": "Joaquín Morales",
+      "numero": "500069",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2071,
+    "fields": {
+      "nombre": "Lucía Fuentes",
+      "numero": "500070",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2072,
+    "fields": {
+      "nombre": "Juan Paredes",
+      "numero": "500071",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2073,
+    "fields": {
+      "nombre": "Bruno Figueroa",
+      "numero": "500072",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2074,
+    "fields": {
+      "nombre": "Derek Valencia",
+      "numero": "500073",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2075,
+    "fields": {
+      "nombre": "Bruno Paredes",
+      "numero": "500074",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2076,
+    "fields": {
+      "nombre": "Naomi Flores",
+      "numero": "500075",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2077,
+    "fields": {
+      "nombre": "Santiago Peña",
+      "numero": "500076",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2078,
+    "fields": {
+      "nombre": "Elena Méndez",
+      "numero": "500077",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2079,
+    "fields": {
+      "nombre": "Elena Romero",
+      "numero": "500078",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2080,
+    "fields": {
+      "nombre": "Camila Suárez",
+      "numero": "500079",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2081,
+    "fields": {
+      "nombre": "David Calderón",
+      "numero": "500080",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2082,
+    "fields": {
+      "nombre": "Thiago Núñez",
+      "numero": "500081",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2083,
+    "fields": {
+      "nombre": "Iker Rivera",
+      "numero": "500082",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2084,
+    "fields": {
+      "nombre": "Lucía Romero",
+      "numero": "500083",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2085,
+    "fields": {
+      "nombre": "Santiago Méndez",
+      "numero": "500084",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2086,
+    "fields": {
+      "nombre": "María Delgado",
+      "numero": "500085",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2087,
+    "fields": {
+      "nombre": "Samuel Molina",
+      "numero": "500086",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2088,
+    "fields": {
+      "nombre": "Martina Rivera",
+      "numero": "500087",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2089,
+    "fields": {
+      "nombre": "Sofía Navarro",
+      "numero": "500088",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2090,
+    "fields": {
+      "nombre": "Catalina Paredes",
+      "numero": "500089",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2091,
+    "fields": {
+      "nombre": "Diego Sánchez",
+      "numero": "500090",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2092,
+    "fields": {
+      "nombre": "Mía Rivera",
+      "numero": "500091",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2093,
+    "fields": {
+      "nombre": "Daniel Díaz",
+      "numero": "500092",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2094,
+    "fields": {
+      "nombre": "Liam Romero",
+      "numero": "500093",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2095,
+    "fields": {
+      "nombre": "Diego Flores",
+      "numero": "500094",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2096,
+    "fields": {
+      "nombre": "Juan Aguilar",
+      "numero": "500095",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2097,
+    "fields": {
+      "nombre": "Rodrigo Paredes",
+      "numero": "500096",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2098,
+    "fields": {
+      "nombre": "Gabriel Salazar",
+      "numero": "500097",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2099,
+    "fields": {
+      "nombre": "Valentina Rodríguez",
+      "numero": "500098",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2100,
+    "fields": {
+      "nombre": "Derek Pineda",
+      "numero": "500099",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2101,
+    "fields": {
+      "nombre": "Carolina Hernández",
+      "numero": "500100",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2102,
+    "fields": {
+      "nombre": "Martina Jiménez",
+      "numero": "500101",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2103,
+    "fields": {
+      "nombre": "Daniel Vega",
+      "numero": "500102",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2104,
+    "fields": {
+      "nombre": "Lucas Carrasco",
+      "numero": "500103",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2105,
+    "fields": {
+      "nombre": "Sara Navarro",
+      "numero": "500104",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2106,
+    "fields": {
+      "nombre": "Nicolás Salazar",
+      "numero": "500105",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2107,
+    "fields": {
+      "nombre": "Valentina Romero",
+      "numero": "500106",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2108,
+    "fields": {
+      "nombre": "Antonella Campos",
+      "numero": "500107",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2109,
+    "fields": {
+      "nombre": "Victoria Suárez",
+      "numero": "500108",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2110,
+    "fields": {
+      "nombre": "Renata Jiménez",
+      "numero": "500109",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2111,
+    "fields": {
+      "nombre": "Catalina Sánchez",
+      "numero": "500110",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2112,
+    "fields": {
+      "nombre": "Bruno Pérez",
+      "numero": "500111",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2113,
+    "fields": {
+      "nombre": "Martina Araya",
+      "numero": "500112",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2114,
+    "fields": {
+      "nombre": "Felipe Vargas",
+      "numero": "500113",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2115,
+    "fields": {
+      "nombre": "Isabella Romero",
+      "numero": "500114",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2116,
+    "fields": {
+      "nombre": "Alonso Cortés",
+      "numero": "500115",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2117,
+    "fields": {
+      "nombre": "Samuel Cabrera",
+      "numero": "500116",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2118,
+    "fields": {
+      "nombre": "Santiago Castillo",
+      "numero": "500117",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2119,
+    "fields": {
+      "nombre": "Paula Figueroa",
+      "numero": "500118",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2120,
+    "fields": {
+      "nombre": "Isabella Silva",
+      "numero": "500119",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2121,
+    "fields": {
+      "nombre": "Mateo Rojas",
+      "numero": "500120",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2122,
+    "fields": {
+      "nombre": "Renata Vargas",
+      "numero": "500121",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2123,
+    "fields": {
+      "nombre": "Samuel Araya",
+      "numero": "500122",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2124,
+    "fields": {
+      "nombre": "Zoe Aguilar",
+      "numero": "500123",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2125,
+    "fields": {
+      "nombre": "Salomé Fuentes",
+      "numero": "500124",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2126,
+    "fields": {
+      "nombre": "Sebastián Bermúdez",
+      "numero": "500125",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2127,
+    "fields": {
+      "nombre": "Naomi Delgado",
+      "numero": "500126",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2128,
+    "fields": {
+      "nombre": "Victoria Aguilar",
+      "numero": "500127",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2129,
+    "fields": {
+      "nombre": "Martina Herrera",
+      "numero": "500128",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2130,
+    "fields": {
+      "nombre": "Catalina Valencia",
+      "numero": "500129",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2131,
+    "fields": {
+      "nombre": "Gael Morales",
+      "numero": "500130",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2132,
+    "fields": {
+      "nombre": "Camila Figueroa",
+      "numero": "500131",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2133,
+    "fields": {
+      "nombre": "Rodrigo Núñez",
+      "numero": "500132",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2134,
+    "fields": {
+      "nombre": "Felipe Flores",
+      "numero": "500133",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2135,
+    "fields": {
+      "nombre": "Carolina Peña",
+      "numero": "500134",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2136,
+    "fields": {
+      "nombre": "Benjamín Rivera",
+      "numero": "500135",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2137,
+    "fields": {
+      "nombre": "Antonella Hernández",
+      "numero": "500136",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2138,
+    "fields": {
+      "nombre": "Derek Paredes",
+      "numero": "500137",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2139,
+    "fields": {
+      "nombre": "Emilia López",
+      "numero": "500138",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2140,
+    "fields": {
+      "nombre": "Gael Vargas",
+      "numero": "500139",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2141,
+    "fields": {
+      "nombre": "Paula Hernández",
+      "numero": "500140",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2142,
+    "fields": {
+      "nombre": "Nicolás López",
+      "numero": "500141",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2143,
+    "fields": {
+      "nombre": "Paula Medina",
+      "numero": "500142",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2144,
+    "fields": {
+      "nombre": "Juan Gómez",
+      "numero": "500143",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2145,
+    "fields": {
+      "nombre": "Diego Aguilar",
+      "numero": "500144",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2146,
+    "fields": {
+      "nombre": "Martina Rojas",
+      "numero": "500145",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2147,
+    "fields": {
+      "nombre": "Naomi López",
+      "numero": "500146",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2148,
+    "fields": {
+      "nombre": "Sofía Silva",
+      "numero": "500147",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2149,
+    "fields": {
+      "nombre": "Joaquín León",
+      "numero": "500148",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2150,
+    "fields": {
+      "nombre": "Antonella Pineda",
+      "numero": "500149",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2151,
+    "fields": {
+      "nombre": "Salomé Paredes",
+      "numero": "500150",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2152,
+    "fields": {
+      "nombre": "Ana Gómez",
+      "numero": "500151",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2153,
+    "fields": {
+      "nombre": "Isabella Jiménez",
+      "numero": "500152",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2154,
+    "fields": {
+      "nombre": "Sebastián Cabrera",
+      "numero": "500153",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2155,
+    "fields": {
+      "nombre": "Zoe Gómez",
+      "numero": "500154",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2156,
+    "fields": {
+      "nombre": "Daniela Paredes",
+      "numero": "500155",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2157,
+    "fields": {
+      "nombre": "Juan López",
+      "numero": "500156",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2158,
+    "fields": {
+      "nombre": "Renata Salazar",
+      "numero": "500157",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2159,
+    "fields": {
+      "nombre": "Renata Carrasco",
+      "numero": "500158",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2160,
+    "fields": {
+      "nombre": "Daniela Rodríguez",
+      "numero": "500159",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2161,
+    "fields": {
+      "nombre": "Camila Vargas",
+      "numero": "500160",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2162,
+    "fields": {
+      "nombre": "Daniel Herrera",
+      "numero": "500161",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2163,
+    "fields": {
+      "nombre": "Carolina Aguilar",
+      "numero": "500162",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2164,
+    "fields": {
+      "nombre": "Thiago Bermúdez",
+      "numero": "500163",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2165,
+    "fields": {
+      "nombre": "Thiago López",
+      "numero": "500164",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2166,
+    "fields": {
+      "nombre": "Mía Pérez",
+      "numero": "500165",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2167,
+    "fields": {
+      "nombre": "Felipe Fuentes",
+      "numero": "500166",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2168,
+    "fields": {
+      "nombre": "Sofía López",
+      "numero": "500167",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2169,
+    "fields": {
+      "nombre": "Santiago Araya",
+      "numero": "500168",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2170,
+    "fields": {
+      "nombre": "Lucas Fuentes",
+      "numero": "500169",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2171,
+    "fields": {
+      "nombre": "Emilia Díaz",
+      "numero": "500170",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2172,
+    "fields": {
+      "nombre": "María Pérez",
+      "numero": "500171",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2173,
+    "fields": {
+      "nombre": "Lucía Sánchez",
+      "numero": "500172",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2174,
+    "fields": {
+      "nombre": "Samuel Rojas",
+      "numero": "500173",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2175,
+    "fields": {
+      "nombre": "Catalina Silva",
+      "numero": "500174",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2176,
+    "fields": {
+      "nombre": "Sofía Herrera",
+      "numero": "500175",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2177,
+    "fields": {
+      "nombre": "Santiago Cabrera",
+      "numero": "500176",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2178,
+    "fields": {
+      "nombre": "Daniel Castillo",
+      "numero": "500177",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2179,
+    "fields": {
+      "nombre": "Benjamín Flores",
+      "numero": "500178",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2180,
+    "fields": {
+      "nombre": "Liam Morales",
+      "numero": "500179",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2181,
+    "fields": {
+      "nombre": "Sofía Reyes",
+      "numero": "500180",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2182,
+    "fields": {
+      "nombre": "Alonso Hernández",
+      "numero": "500181",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2183,
+    "fields": {
+      "nombre": "Gael Campos",
+      "numero": "500182",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2184,
+    "fields": {
+      "nombre": "Camila Hernández",
+      "numero": "500183",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2185,
+    "fields": {
+      "nombre": "Juan Rojas",
+      "numero": "500184",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2186,
+    "fields": {
+      "nombre": "Juan Morales",
+      "numero": "500185",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2187,
+    "fields": {
+      "nombre": "Naomi Campos",
+      "numero": "500186",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2188,
+    "fields": {
+      "nombre": "Catalina Pérez",
+      "numero": "500187",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2189,
+    "fields": {
+      "nombre": "Lucía Campos",
+      "numero": "500188",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2190,
+    "fields": {
+      "nombre": "Emma Castillo",
+      "numero": "500189",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2191,
+    "fields": {
+      "nombre": "Joaquín Romero",
+      "numero": "500190",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2192,
+    "fields": {
+      "nombre": "Ana Salazar",
+      "numero": "500191",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2193,
+    "fields": {
+      "nombre": "Elena Hernández",
+      "numero": "500192",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2194,
+    "fields": {
+      "nombre": "Joaquín Cortés",
+      "numero": "500193",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2195,
+    "fields": {
+      "nombre": "Lucas Núñez",
+      "numero": "500194",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2196,
+    "fields": {
+      "nombre": "Antonella Carrasco",
+      "numero": "500195",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2197,
+    "fields": {
+      "nombre": "Isabella Figueroa",
+      "numero": "500196",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2198,
+    "fields": {
+      "nombre": "Emma Pineda",
+      "numero": "500197",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2199,
+    "fields": {
+      "nombre": "Joaquín Fernández",
+      "numero": "500198",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2200,
+    "fields": {
+      "nombre": "Emilia Romero",
+      "numero": "500199",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2201,
+    "fields": {
+      "nombre": "Axel Morales",
+      "numero": "500200",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2202,
+    "fields": {
+      "nombre": "Sebastián Salazar",
+      "numero": "500201",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2203,
+    "fields": {
+      "nombre": "Renata Rodríguez",
+      "numero": "500202",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2204,
+    "fields": {
+      "nombre": "Naomi Hernández",
+      "numero": "500203",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2205,
+    "fields": {
+      "nombre": "Renata Reyes",
+      "numero": "500204",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2206,
+    "fields": {
+      "nombre": "Iker León",
+      "numero": "500205",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2207,
+    "fields": {
+      "nombre": "David Campos",
+      "numero": "500206",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2208,
+    "fields": {
+      "nombre": "Nicolás Pérez",
+      "numero": "500207",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2209,
+    "fields": {
+      "nombre": "Daniel Méndez",
+      "numero": "500208",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2210,
+    "fields": {
+      "nombre": "Lucas Ortega",
+      "numero": "500209",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2211,
+    "fields": {
+      "nombre": "Gael Fuentes",
+      "numero": "500210",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2212,
+    "fields": {
+      "nombre": "Daniela Rivera",
+      "numero": "500211",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2213,
+    "fields": {
+      "nombre": "Thiago Pérez",
+      "numero": "500212",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2214,
+    "fields": {
+      "nombre": "Abril Pineda",
+      "numero": "500213",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2215,
+    "fields": {
+      "nombre": "Juan Ortega",
+      "numero": "500214",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2216,
+    "fields": {
+      "nombre": "Sara Sánchez",
+      "numero": "500215",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2217,
+    "fields": {
+      "nombre": "David Cabrera",
+      "numero": "500216",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2218,
+    "fields": {
+      "nombre": "Nicolás Rojas",
+      "numero": "500217",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2219,
+    "fields": {
+      "nombre": "Isabella Muñoz",
+      "numero": "500218",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2220,
+    "fields": {
+      "nombre": "Nicolás Romero",
+      "numero": "500219",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2221,
+    "fields": {
+      "nombre": "Naomi Rodríguez",
+      "numero": "500220",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2222,
+    "fields": {
+      "nombre": "Liam Hernández",
+      "numero": "500221",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2223,
+    "fields": {
+      "nombre": "Liam Suárez",
+      "numero": "500222",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2224,
+    "fields": {
+      "nombre": "Andrés López",
+      "numero": "500223",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2225,
+    "fields": {
+      "nombre": "Thiago Araya",
+      "numero": "500224",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2226,
+    "fields": {
+      "nombre": "Alonso Cruz",
+      "numero": "500225",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2227,
+    "fields": {
+      "nombre": "Nicolás Delgado",
+      "numero": "500226",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2228,
+    "fields": {
+      "nombre": "Nicolás Torres",
+      "numero": "500227",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2229,
+    "fields": {
+      "nombre": "Santiago Torres",
+      "numero": "500228",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2230,
+    "fields": {
+      "nombre": "Juan Cabrera",
+      "numero": "500229",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2231,
+    "fields": {
+      "nombre": "Thiago Reyes",
+      "numero": "500230",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2232,
+    "fields": {
+      "nombre": "Benjamín Muñoz",
+      "numero": "500231",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2233,
+    "fields": {
+      "nombre": "Abril Bermúdez",
+      "numero": "500232",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2234,
+    "fields": {
+      "nombre": "Gabriel López",
+      "numero": "500233",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2235,
+    "fields": {
+      "nombre": "Eva Campos",
+      "numero": "500234",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2236,
+    "fields": {
+      "nombre": "Sebastián Ortega",
+      "numero": "500235",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2237,
+    "fields": {
+      "nombre": "Eva Cortés",
+      "numero": "500236",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2238,
+    "fields": {
+      "nombre": "Andrés Molina",
+      "numero": "500237",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2239,
+    "fields": {
+      "nombre": "Santiago Ortega",
+      "numero": "500238",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2240,
+    "fields": {
+      "nombre": "Sofía Carrasco",
+      "numero": "500239",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2241,
+    "fields": {
+      "nombre": "Derek Pérez",
+      "numero": "500240",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2242,
+    "fields": {
+      "nombre": "Rodrigo Castillo",
+      "numero": "500241",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2243,
+    "fields": {
+      "nombre": "Sara Méndez",
+      "numero": "500242",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2244,
+    "fields": {
+      "nombre": "David Navarro",
+      "numero": "500243",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2245,
+    "fields": {
+      "nombre": "Gabriel Méndez",
+      "numero": "500244",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2246,
+    "fields": {
+      "nombre": "Sara Flores",
+      "numero": "500245",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2247,
+    "fields": {
+      "nombre": "Benjamín Medina",
+      "numero": "500246",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2248,
+    "fields": {
+      "nombre": "Lucas Figueroa",
+      "numero": "500247",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2249,
+    "fields": {
+      "nombre": "María Molina",
+      "numero": "500248",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2250,
+    "fields": {
+      "nombre": "Nicolás González",
+      "numero": "500249",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2251,
+    "fields": {
+      "nombre": "Daniela Valencia",
+      "numero": "500250",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2252,
+    "fields": {
+      "nombre": "Zoe Herrera",
+      "numero": "500251",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2253,
+    "fields": {
+      "nombre": "Emma Carrasco",
+      "numero": "500252",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2254,
+    "fields": {
+      "nombre": "Daniel Carrasco",
+      "numero": "500253",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2255,
+    "fields": {
+      "nombre": "Emma Silva",
+      "numero": "500254",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2256,
+    "fields": {
+      "nombre": "Joaquín López",
+      "numero": "500255",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2257,
+    "fields": {
+      "nombre": "Andrés Díaz",
+      "numero": "500256",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2258,
+    "fields": {
+      "nombre": "Naomi Núñez",
+      "numero": "500257",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2259,
+    "fields": {
+      "nombre": "Andrés Delgado",
+      "numero": "500258",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2260,
+    "fields": {
+      "nombre": "Lucía Carrasco",
+      "numero": "500259",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2261,
+    "fields": {
+      "nombre": "Diego Rojas",
+      "numero": "500260",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2262,
+    "fields": {
+      "nombre": "Mía Fuentes",
+      "numero": "500261",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2263,
+    "fields": {
+      "nombre": "Bruno Reyes",
+      "numero": "500262",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2264,
+    "fields": {
+      "nombre": "Mía Herrera",
+      "numero": "500263",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2265,
+    "fields": {
+      "nombre": "Mía Rodríguez",
+      "numero": "500264",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2266,
+    "fields": {
+      "nombre": "Alonso Medina",
+      "numero": "500265",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2267,
+    "fields": {
+      "nombre": "Zoe Vega",
+      "numero": "500266",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2268,
+    "fields": {
+      "nombre": "Catalina Figueroa",
+      "numero": "500267",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2269,
+    "fields": {
+      "nombre": "Antonella Romero",
+      "numero": "500268",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2270,
+    "fields": {
+      "nombre": "Abril Muñoz",
+      "numero": "500269",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2271,
+    "fields": {
+      "nombre": "Derek Fuentes",
+      "numero": "500270",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2272,
+    "fields": {
+      "nombre": "Santiago Fuentes",
+      "numero": "500271",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2273,
+    "fields": {
+      "nombre": "Derek Molina",
+      "numero": "500272",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2274,
+    "fields": {
+      "nombre": "Gabriel Gómez",
+      "numero": "500273",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2275,
+    "fields": {
+      "nombre": "Santiago Sánchez",
+      "numero": "500274",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2276,
+    "fields": {
+      "nombre": "Sofía Ortega",
+      "numero": "500275",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2277,
+    "fields": {
+      "nombre": "Alonso Suárez",
+      "numero": "500276",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2278,
+    "fields": {
+      "nombre": "Diego Cabrera",
+      "numero": "500277",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2279,
+    "fields": {
+      "nombre": "Ana Castillo",
+      "numero": "500278",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2280,
+    "fields": {
+      "nombre": "Daniela Medina",
+      "numero": "500279",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2281,
+    "fields": {
+      "nombre": "Isabella Núñez",
+      "numero": "500280",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2282,
+    "fields": {
+      "nombre": "Benjamín Romero",
+      "numero": "500281",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2283,
+    "fields": {
+      "nombre": "Paula Calderón",
+      "numero": "500282",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2284,
+    "fields": {
+      "nombre": "Mía Pineda",
+      "numero": "500283",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2285,
+    "fields": {
+      "nombre": "Naomi Romero",
+      "numero": "500284",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2286,
+    "fields": {
+      "nombre": "Isabella Gómez",
+      "numero": "500285",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2287,
+    "fields": {
+      "nombre": "Elena Núñez",
+      "numero": "500286",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2288,
+    "fields": {
+      "nombre": "Gabriel Paredes",
+      "numero": "500287",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2289,
+    "fields": {
+      "nombre": "Emma Reyes",
+      "numero": "500288",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2290,
+    "fields": {
+      "nombre": "Felipe León",
+      "numero": "500289",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2291,
+    "fields": {
+      "nombre": "Joaquín Valencia",
+      "numero": "500290",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2292,
+    "fields": {
+      "nombre": "Emma Aguilar",
+      "numero": "500291",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2293,
+    "fields": {
+      "nombre": "Gael Paredes",
+      "numero": "500292",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2294,
+    "fields": {
+      "nombre": "María Núñez",
+      "numero": "500293",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2295,
+    "fields": {
+      "nombre": "Sebastián Carrasco",
+      "numero": "500294",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2296,
+    "fields": {
+      "nombre": "Iker Figueroa",
+      "numero": "500295",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2297,
+    "fields": {
+      "nombre": "Derek Cabrera",
+      "numero": "500296",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2298,
+    "fields": {
+      "nombre": "Emma Hernández",
+      "numero": "500297",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2299,
+    "fields": {
+      "nombre": "Gabriel Morales",
+      "numero": "500298",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2300,
+    "fields": {
+      "nombre": "Axel Romero",
+      "numero": "500299",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2301,
+    "fields": {
+      "nombre": "Emma Medina",
+      "numero": "500300",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2302,
+    "fields": {
+      "nombre": "Renata Campos",
+      "numero": "500301",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2303,
+    "fields": {
+      "nombre": "Daniel Muñoz",
+      "numero": "500302",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2304,
+    "fields": {
+      "nombre": "Zoe Méndez",
+      "numero": "500303",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2305,
+    "fields": {
+      "nombre": "Sara Jiménez",
+      "numero": "500304",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2306,
+    "fields": {
+      "nombre": "Iker Cabrera",
+      "numero": "500305",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2307,
+    "fields": {
+      "nombre": "Elena Suárez",
+      "numero": "500306",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2308,
+    "fields": {
+      "nombre": "Ana Suárez",
+      "numero": "500307",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2309,
+    "fields": {
+      "nombre": "Nicolás Flores",
+      "numero": "500308",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2310,
+    "fields": {
+      "nombre": "David Fernández",
+      "numero": "500309",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2311,
+    "fields": {
+      "nombre": "Catalina Herrera",
+      "numero": "500310",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2312,
+    "fields": {
+      "nombre": "Gabriel Romero",
+      "numero": "500311",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2313,
+    "fields": {
+      "nombre": "Joaquín Calderón",
+      "numero": "500312",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2314,
+    "fields": {
+      "nombre": "Mía Ramírez",
+      "numero": "500313",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2315,
+    "fields": {
+      "nombre": "Carolina Rodríguez",
+      "numero": "500314",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2316,
+    "fields": {
+      "nombre": "Paula Díaz",
+      "numero": "500315",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2317,
+    "fields": {
+      "nombre": "David Carrasco",
+      "numero": "500316",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2318,
+    "fields": {
+      "nombre": "Emilia Pérez",
+      "numero": "500317",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2319,
+    "fields": {
+      "nombre": "Santiago Medina",
+      "numero": "500318",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2320,
+    "fields": {
+      "nombre": "Diego Vargas",
+      "numero": "500319",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2321,
+    "fields": {
+      "nombre": "Victoria Ramírez",
+      "numero": "500320",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2322,
+    "fields": {
+      "nombre": "Pablo Díaz",
+      "numero": "500321",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2323,
+    "fields": {
+      "nombre": "Daniela Torres",
+      "numero": "500322",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2324,
+    "fields": {
+      "nombre": "Daniela Salazar",
+      "numero": "500323",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2325,
+    "fields": {
+      "nombre": "Nicolás Valencia",
+      "numero": "500324",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2326,
+    "fields": {
+      "nombre": "Lucía Muñoz",
+      "numero": "500325",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2327,
+    "fields": {
+      "nombre": "Liam Vargas",
+      "numero": "500326",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2328,
+    "fields": {
+      "nombre": "Sara Cabrera",
+      "numero": "500327",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2329,
+    "fields": {
+      "nombre": "Abril Gómez",
+      "numero": "500328",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2330,
+    "fields": {
+      "nombre": "Emma Gómez",
+      "numero": "500329",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2331,
+    "fields": {
+      "nombre": "Andrés Ortega",
+      "numero": "500330",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2332,
+    "fields": {
+      "nombre": "Victoria Méndez",
+      "numero": "500331",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2333,
+    "fields": {
+      "nombre": "Andrés González",
+      "numero": "500332",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2334,
+    "fields": {
+      "nombre": "Iker Pérez",
+      "numero": "500333",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2335,
+    "fields": {
+      "nombre": "Sebastián Rojas",
+      "numero": "500334",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2336,
+    "fields": {
+      "nombre": "Catalina Araya",
+      "numero": "500335",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2337,
+    "fields": {
+      "nombre": "Isabella Carrasco",
+      "numero": "500336",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2338,
+    "fields": {
+      "nombre": "Emilia Cabrera",
+      "numero": "500337",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2339,
+    "fields": {
+      "nombre": "Derek López",
+      "numero": "500338",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2340,
+    "fields": {
+      "nombre": "Eva Delgado",
+      "numero": "500339",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2341,
+    "fields": {
+      "nombre": "Mía Peña",
+      "numero": "500340",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2342,
+    "fields": {
+      "nombre": "Emma Valencia",
+      "numero": "500341",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2343,
+    "fields": {
+      "nombre": "Daniela Vargas",
+      "numero": "500342",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2344,
+    "fields": {
+      "nombre": "Eva Suárez",
+      "numero": "500343",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2345,
+    "fields": {
+      "nombre": "Antonella León",
+      "numero": "500344",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2346,
+    "fields": {
+      "nombre": "Paula Romero",
+      "numero": "500345",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2347,
+    "fields": {
+      "nombre": "Lucas León",
+      "numero": "500346",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2348,
+    "fields": {
+      "nombre": "Paula Castillo",
+      "numero": "500347",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2349,
+    "fields": {
+      "nombre": "María Calderón",
+      "numero": "500348",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2350,
+    "fields": {
+      "nombre": "Antonella Cruz",
+      "numero": "500349",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2351,
+    "fields": {
+      "nombre": "Emilia Paredes",
+      "numero": "500350",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2352,
+    "fields": {
+      "nombre": "Carolina Reyes",
+      "numero": "500351",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2353,
+    "fields": {
+      "nombre": "Gabriel Calderón",
+      "numero": "500352",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2354,
+    "fields": {
+      "nombre": "Ana Sánchez",
+      "numero": "500353",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2355,
+    "fields": {
+      "nombre": "Martina Calderón",
+      "numero": "500354",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2356,
+    "fields": {
+      "nombre": "Andrés Muñoz",
+      "numero": "500355",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2357,
+    "fields": {
+      "nombre": "Naomi Reyes",
+      "numero": "500356",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2358,
+    "fields": {
+      "nombre": "Thiago Silva",
+      "numero": "500357",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2359,
+    "fields": {
+      "nombre": "Daniela Aguilar",
+      "numero": "500358",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2360,
+    "fields": {
+      "nombre": "Benjamín Vega",
+      "numero": "500359",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2361,
+    "fields": {
+      "nombre": "Valentina Aguilar",
+      "numero": "500360",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2362,
+    "fields": {
+      "nombre": "Rodrigo Muñoz",
+      "numero": "500361",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2363,
+    "fields": {
+      "nombre": "Victoria Carrasco",
+      "numero": "500362",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2364,
+    "fields": {
+      "nombre": "Renata Silva",
+      "numero": "500363",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2365,
+    "fields": {
+      "nombre": "Sofía Bermúdez",
+      "numero": "500364",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2366,
+    "fields": {
+      "nombre": "Gabriel Carrasco",
+      "numero": "500365",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2367,
+    "fields": {
+      "nombre": "Victoria Ortega",
+      "numero": "500366",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2368,
+    "fields": {
+      "nombre": "Emilia Salazar",
+      "numero": "500367",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2369,
+    "fields": {
+      "nombre": "Sebastián González",
+      "numero": "500368",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2370,
+    "fields": {
+      "nombre": "Martina Carrasco",
+      "numero": "500369",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2371,
+    "fields": {
+      "nombre": "Antonella Muñoz",
+      "numero": "500370",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2372,
+    "fields": {
+      "nombre": "Felipe Salazar",
+      "numero": "500371",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2373,
+    "fields": {
+      "nombre": "Axel Araya",
+      "numero": "500372",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2374,
+    "fields": {
+      "nombre": "Benjamín Hernández",
+      "numero": "500373",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2375,
+    "fields": {
+      "nombre": "Victoria Romero",
+      "numero": "500374",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2376,
+    "fields": {
+      "nombre": "Sofía Figueroa",
+      "numero": "500375",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2377,
+    "fields": {
+      "nombre": "Daniela Molina",
+      "numero": "500376",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2378,
+    "fields": {
+      "nombre": "Martina Reyes",
+      "numero": "500377",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2379,
+    "fields": {
+      "nombre": "Bruno Gómez",
+      "numero": "500378",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2380,
+    "fields": {
+      "nombre": "Liam Rodríguez",
+      "numero": "500379",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2381,
+    "fields": {
+      "nombre": "Camila Vega",
+      "numero": "500380",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2382,
+    "fields": {
+      "nombre": "Abril Díaz",
+      "numero": "500381",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2383,
+    "fields": {
+      "nombre": "Martina León",
+      "numero": "500382",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2384,
+    "fields": {
+      "nombre": "Diego Castillo",
+      "numero": "500383",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2385,
+    "fields": {
+      "nombre": "Sofía Salazar",
+      "numero": "500384",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2386,
+    "fields": {
+      "nombre": "Axel Bermúdez",
+      "numero": "500385",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2387,
+    "fields": {
+      "nombre": "Salomé León",
+      "numero": "500386",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2388,
+    "fields": {
+      "nombre": "María Aguilar",
+      "numero": "500387",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2389,
+    "fields": {
+      "nombre": "Andrés Sánchez",
+      "numero": "500388",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2390,
+    "fields": {
+      "nombre": "Benjamín Ramírez",
+      "numero": "500389",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2391,
+    "fields": {
+      "nombre": "Renata Castillo",
+      "numero": "500390",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2392,
+    "fields": {
+      "nombre": "Eva Fernández",
+      "numero": "500391",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2393,
+    "fields": {
+      "nombre": "Mateo Díaz",
+      "numero": "500392",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2394,
+    "fields": {
+      "nombre": "Salomé Ortega",
+      "numero": "500393",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2395,
+    "fields": {
+      "nombre": "Liam Castillo",
+      "numero": "500394",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2396,
+    "fields": {
+      "nombre": "Naomi Bermúdez",
+      "numero": "500395",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2397,
+    "fields": {
+      "nombre": "Alonso Rodríguez",
+      "numero": "500396",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2398,
+    "fields": {
+      "nombre": "María Salazar",
+      "numero": "500397",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2399,
+    "fields": {
+      "nombre": "Abril Araya",
+      "numero": "500398",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2400,
+    "fields": {
+      "nombre": "Juan Muñoz",
+      "numero": "500399",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2401,
+    "fields": {
+      "nombre": "Diego Núñez",
+      "numero": "500400",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2402,
+    "fields": {
+      "nombre": "Salomé Hernández",
+      "numero": "500401",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2403,
+    "fields": {
+      "nombre": "Abril Ramírez",
+      "numero": "500402",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2404,
+    "fields": {
+      "nombre": "Daniela Bermúdez",
+      "numero": "500403",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2405,
+    "fields": {
+      "nombre": "Victoria Reyes",
+      "numero": "500404",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2406,
+    "fields": {
+      "nombre": "Paula Morales",
+      "numero": "500405",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2407,
+    "fields": {
+      "nombre": "Diego Cruz",
+      "numero": "500406",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2408,
+    "fields": {
+      "nombre": "Abril Figueroa",
+      "numero": "500407",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2409,
+    "fields": {
+      "nombre": "Abril Hernández",
+      "numero": "500408",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2410,
+    "fields": {
+      "nombre": "Benjamín Díaz",
+      "numero": "500409",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2411,
+    "fields": {
+      "nombre": "Isabella Navarro",
+      "numero": "500410",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2412,
+    "fields": {
+      "nombre": "Daniela Reyes",
+      "numero": "500411",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2413,
+    "fields": {
+      "nombre": "Sara Suárez",
+      "numero": "500412",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2414,
+    "fields": {
+      "nombre": "Camila Cortés",
+      "numero": "500413",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2415,
+    "fields": {
+      "nombre": "Emilia Silva",
+      "numero": "500414",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2416,
+    "fields": {
+      "nombre": "Daniela Morales",
+      "numero": "500415",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2417,
+    "fields": {
+      "nombre": "Alonso Castillo",
+      "numero": "500416",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2418,
+    "fields": {
+      "nombre": "Nicolás Carrasco",
+      "numero": "500417",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2419,
+    "fields": {
+      "nombre": "Isabella Salazar",
+      "numero": "500418",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2420,
+    "fields": {
+      "nombre": "Joaquín Figueroa",
+      "numero": "500419",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2421,
+    "fields": {
+      "nombre": "Liam Núñez",
+      "numero": "500420",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2422,
+    "fields": {
+      "nombre": "Benjamín Molina",
+      "numero": "500421",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2423,
+    "fields": {
+      "nombre": "María Cruz",
+      "numero": "500422",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2424,
+    "fields": {
+      "nombre": "Eva Núñez",
+      "numero": "500423",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2425,
+    "fields": {
+      "nombre": "Isabella Herrera",
+      "numero": "500424",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2426,
+    "fields": {
+      "nombre": "Gael López",
+      "numero": "500425",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2427,
+    "fields": {
+      "nombre": "Renata Cortés",
+      "numero": "500426",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2428,
+    "fields": {
+      "nombre": "Victoria Vargas",
+      "numero": "500427",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2429,
+    "fields": {
+      "nombre": "Liam Molina",
+      "numero": "500428",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2430,
+    "fields": {
+      "nombre": "Antonella Fernández",
+      "numero": "500429",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2431,
+    "fields": {
+      "nombre": "Gabriel Navarro",
+      "numero": "500430",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2432,
+    "fields": {
+      "nombre": "Elena Molina",
+      "numero": "500431",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2433,
+    "fields": {
+      "nombre": "Gabriel Jiménez",
+      "numero": "500432",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2434,
+    "fields": {
+      "nombre": "Axel Rojas",
+      "numero": "500433",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2435,
+    "fields": {
+      "nombre": "Derek Ramírez",
+      "numero": "500434",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2436,
+    "fields": {
+      "nombre": "Iker Medina",
+      "numero": "500435",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2437,
+    "fields": {
+      "nombre": "Gabriel González",
+      "numero": "500436",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2438,
+    "fields": {
+      "nombre": "Rodrigo Salazar",
+      "numero": "500437",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2439,
+    "fields": {
+      "nombre": "Juan Flores",
+      "numero": "500438",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2440,
+    "fields": {
+      "nombre": "Nicolás Vargas",
+      "numero": "500439",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2441,
+    "fields": {
+      "nombre": "Gabriel Bermúdez",
+      "numero": "500440",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2442,
+    "fields": {
+      "nombre": "Bruno Valencia",
+      "numero": "500441",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2443,
+    "fields": {
+      "nombre": "Andrés León",
+      "numero": "500442",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2444,
+    "fields": {
+      "nombre": "Joaquín Jiménez",
+      "numero": "500443",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2445,
+    "fields": {
+      "nombre": "Sebastián Ramírez",
+      "numero": "500444",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2446,
+    "fields": {
+      "nombre": "Diego Molina",
+      "numero": "500445",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2447,
+    "fields": {
+      "nombre": "Zoe Carrasco",
+      "numero": "500446",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2448,
+    "fields": {
+      "nombre": "Emma Cruz",
+      "numero": "500447",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2449,
+    "fields": {
+      "nombre": "Gael Cortés",
+      "numero": "500448",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2450,
+    "fields": {
+      "nombre": "Martina González",
+      "numero": "500449",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2451,
+    "fields": {
+      "nombre": "Naomi Navarro",
+      "numero": "500450",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2452,
+    "fields": {
+      "nombre": "Abril Suárez",
+      "numero": "500451",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2453,
+    "fields": {
+      "nombre": "Ana Méndez",
+      "numero": "500452",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2454,
+    "fields": {
+      "nombre": "Joaquín Ortega",
+      "numero": "500453",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2455,
+    "fields": {
+      "nombre": "Emilia González",
+      "numero": "500454",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2456,
+    "fields": {
+      "nombre": "Catalina Aguilar",
+      "numero": "500455",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2457,
+    "fields": {
+      "nombre": "Valentina Figueroa",
+      "numero": "500456",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2458,
+    "fields": {
+      "nombre": "Sara Medina",
+      "numero": "500457",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2459,
+    "fields": {
+      "nombre": "Zoe Hernández",
+      "numero": "500458",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2460,
+    "fields": {
+      "nombre": "Felipe Cortés",
+      "numero": "500459",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2461,
+    "fields": {
+      "nombre": "Axel Fuentes",
+      "numero": "500460",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2462,
+    "fields": {
+      "nombre": "Nicolás Muñoz",
+      "numero": "500461",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2463,
+    "fields": {
+      "nombre": "Bruno Calderón",
+      "numero": "500462",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2464,
+    "fields": {
+      "nombre": "Emma Navarro",
+      "numero": "500463",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2465,
+    "fields": {
+      "nombre": "Felipe Silva",
+      "numero": "500464",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2466,
+    "fields": {
+      "nombre": "Valentina Castillo",
+      "numero": "500465",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2467,
+    "fields": {
+      "nombre": "Pablo Núñez",
+      "numero": "500466",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2468,
+    "fields": {
+      "nombre": "Joaquín Silva",
+      "numero": "500467",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2469,
+    "fields": {
+      "nombre": "Derek Fernández",
+      "numero": "500468",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2470,
+    "fields": {
+      "nombre": "Gabriel Rojas",
+      "numero": "500469",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2471,
+    "fields": {
+      "nombre": "Liam Figueroa",
+      "numero": "500470",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2472,
+    "fields": {
+      "nombre": "Mateo Méndez",
+      "numero": "500471",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2473,
+    "fields": {
+      "nombre": "Victoria Paredes",
+      "numero": "500472",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2474,
+    "fields": {
+      "nombre": "Diego Fernández",
+      "numero": "500473",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2475,
+    "fields": {
+      "nombre": "Andrés Rodríguez",
+      "numero": "500474",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2476,
+    "fields": {
+      "nombre": "Santiago Díaz",
+      "numero": "500475",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2477,
+    "fields": {
+      "nombre": "Ana Paredes",
+      "numero": "500476",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2478,
+    "fields": {
+      "nombre": "Salomé Pineda",
+      "numero": "500477",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2479,
+    "fields": {
+      "nombre": "Axel León",
+      "numero": "500478",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2480,
+    "fields": {
+      "nombre": "Diego Pérez",
+      "numero": "500479",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2481,
+    "fields": {
+      "nombre": "Naomi Molina",
+      "numero": "500480",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2482,
+    "fields": {
+      "nombre": "Camila Torres",
+      "numero": "500481",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2483,
+    "fields": {
+      "nombre": "Diego Rivera",
+      "numero": "500482",
+      "max_prestamos": 3
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2484,
+    "fields": {
+      "nombre": "Bruno Rojas",
+      "numero": "500483",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2485,
+    "fields": {
+      "nombre": "Samuel Bermúdez",
+      "numero": "500484",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2486,
+    "fields": {
+      "nombre": "Samuel Peña",
+      "numero": "500485",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2487,
+    "fields": {
+      "nombre": "Sebastián Medina",
+      "numero": "500486",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2488,
+    "fields": {
+      "nombre": "Samuel Campos",
+      "numero": "500487",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2489,
+    "fields": {
+      "nombre": "Pablo Guerrero",
+      "numero": "500488",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2490,
+    "fields": {
+      "nombre": "Alonso Jiménez",
+      "numero": "500489",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2491,
+    "fields": {
+      "nombre": "Elena Flores",
+      "numero": "500490",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2492,
+    "fields": {
+      "nombre": "David Bermúdez",
+      "numero": "500491",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2493,
+    "fields": {
+      "nombre": "Lucas Peña",
+      "numero": "500492",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2494,
+    "fields": {
+      "nombre": "Iker Aguilar",
+      "numero": "500493",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2495,
+    "fields": {
+      "nombre": "Carolina Méndez",
+      "numero": "500494",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2496,
+    "fields": {
+      "nombre": "Andrés Hernández",
+      "numero": "500495",
+      "max_prestamos": 4
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2497,
+    "fields": {
+      "nombre": "Pablo Araya",
+      "numero": "500496",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2498,
+    "fields": {
+      "nombre": "Thiago Suárez",
+      "numero": "500497",
+      "max_prestamos": 5
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2499,
+    "fields": {
+      "nombre": "Ana Rodríguez",
+      "numero": "500498",
+      "max_prestamos": 2
+    }
+  },
+  {
+    "model": "usuarios.usuario",
+    "pk": 2500,
+    "fields": {
+      "nombre": "Sofía Muñoz",
+      "numero": "500499",
+      "max_prestamos": 4
+    }
+  }
+]

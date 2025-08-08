@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Préstamos</h1>
+<p><a href="{% url 'prestamos:create' %}">Nuevo préstamo</a> |
+   <a href="{% url 'prestamos:list' %}?abiertos=1">Ver solo abiertos</a></p>
+<table border="1" cellpadding="6">
+  <tr><th>ID</th><th>Libro</th><th>Usuario</th><th>Fecha</th><th>Devolución</th><th>Acciones</th></tr>
+  {% for p in object_list %}
+  <tr>
+    <td>{{ p.id }}</td>
+    <td>{{ p.libro.titulo }} ({{ p.libro.isbn }})</td>
+    <td>{{ p.usuario.nombre }} ({{ p.usuario.numero }})</td>
+    <td>{{ p.fecha_prestamo }}</td>
+    <td>{% if p.fecha_devolucion %}{{ p.fecha_devolucion }} · R$ {{ p.multa }}{% else %}-{% endif %}</td>
+    <td>
+      {% if not p.fecha_devolucion %}
+        <a href="{% url 'prestamos:devolver' p.id %}">Devolver</a>
+      {% else %}—{% endif %}
+    </td>
+  </tr>
+  {% empty %}<tr><td colspan="6">Sin préstamos.</td></tr>{% endfor %}
+</table>
+{% endblock %}
+

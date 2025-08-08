@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Libros</h1>
+<p><a href="{% url 'libros:create' %}">Nuevo libro</a></p>
+<table border="1" cellpadding="6">
+  <tr><th>Título</th><th>Autor</th><th>ISBN</th><th>Disp/Tot</th><th>Acciones</th></tr>
+  {% for obj in object_list %}
+  <tr>
+    <td>{{ obj.titulo }}</td>
+    <td>{{ obj.autor }}</td>
+    <td>{{ obj.isbn }}</td>
+    <td>{{ obj.ejemplares_disponibles }}/{{ obj.ejemplares_totales }}</td>
+    <td>
+      <a href="{% url 'libros:update' obj.pk %}">Editar</a> |
+      <a href="{% url 'libros:delete' obj.pk %}">Eliminar</a>
+    </td>
+  </tr>
+  {% empty %}
+  <tr><td colspan="5">Sin libros.</td></tr>
+  {% endfor %}
+</table>
+{% endblock %}
