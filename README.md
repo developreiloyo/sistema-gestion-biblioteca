@@ -1,9 +1,9 @@
 # Sistema de Gestión de Biblioteca (Django)
 
 Proyecto académico hecho con **Django 5** para gestionar **libros, usuarios y préstamos**.  
-Incluye interfaz con **Bootstrap 5**, control de disponibilidad, **plazos**, cálculo de **multas por retraso**, y CRUD completo.
+Incluye interfaz con **Bootstrap 5**, control de disponibilidad de ejemplares, gestión de plazos de devolución, cálculo automático de **multas por retraso** y **CRUD completo** para todas las entidades.
 
-> Hecho para practicar POO aplicada al dominio biblioteca y buenas prácticas en Django (modelos, formularios, vistas genéricas, templates y mensajes).
+Este sistema fue elaborado como parte del **Entregable 2** de la asignatura **PROGRAMACIÓN PARA CIENCIA DE DATOS** de **UNITEC**, con el objetivo de aplicar conceptos clave de desarrollo web, modelado de datos y lógica de negocio utilizando Python y Django, en un contexto académico y práctico.
 
 ---
 
