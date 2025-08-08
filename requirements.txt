@@ -1,0 +1,5 @@
+Django==5.2.5
+gunicorn==21.2.0
+whitenoise==6.8.2
+Pillow==11.3.0
+python-dotenv==1.0.1
