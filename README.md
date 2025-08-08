@@ -55,6 +55,7 @@ TIME_ZONE = "America/Sao_Paulo"
 
 python manage.py migrate
 python manage.py createsuperuser
+```
 
 sistema-gestion-biblioteca/
 ├─ manage.py
@@ -73,7 +74,7 @@ sistema-gestion-biblioteca/
 └─ static/
    └─ img/unitec-logo.png
 
-🔗 URLs principales 
+## 4) 🔗 URLs principales 
 
     Home: portada simple o redirección a Libros (según tu urls.py).
     Libros: /libros/
@@ -83,7 +84,7 @@ sistema-gestion-biblioteca/
      
 
  
-📦 Modelos (resumen) 
+## 5) 📦 Modelos (resumen) 
 libros.Libro 
 
 Atributos: titulo, autor, isbn, ejemplares_totales, ejemplares_disponibles
@@ -112,7 +113,7 @@ Propiedades:
      
 
  
-🧑‍💻 Flujo de uso 
+## 6) 🧑‍💻 Flujo de uso 
 
     Crea Usuarios y Libros desde el menú.
     En Préstamos → Nuevo, selecciona libro y usuario y guarda.
@@ -120,7 +121,7 @@ Propiedades:
      
 
  
-🖼️ UI 
+## 7) 🖼️ UI 
 
     Bootstrap 5 por CDN en templates/base.html.
     Navbar superior con logo UNITEC (static/img/unitec-logo.png).
@@ -128,24 +129,22 @@ Propiedades:
      
 
  
-🔧 Despliegue (opcional, sin Nginx) 
+## 8) 🔧 Despliegue (opcional, sin Nginx) 
 
     Instala WhiteNoise: 
-    bash
-     
+```bash
 
- 
-1
 pip install whitenoise
  
  
 
 En settings.py, agrega en MIDDLEWARE (antes de CommonMiddleware): 
+```
 ```python
  
 'whitenoise.middleware.WhiteNoiseMiddleware',
  
- 
+ ```
 
 Define STATIC_ROOT en settings.py: 
 ```python
@@ -154,17 +153,14 @@ Define STATIC_ROOT en settings.py:
 1
 STATIC_ROOT = BASE_DIR / 'staticfiles'
  
- 
+ ```
 
 Ejecuta: 
-bash
+``` bash
  
-
-     
-    1
     python manage.py collectstatic
      
-     
+```
      
 
  
