@@ -28,7 +28,7 @@ Este sistema fue elaborado como parte del **Entregable 2** de la asignatura **PR
 
 ## 🚀 Puesta en marcha
 
-### 1) Clonar y crear entorno
+## 1) Clonar y crear entorno
 ```bash
 git clone <TU_REPO.git> sistema-gestion-biblioteca
 cd sistema-gestion-biblioteca
@@ -40,27 +40,27 @@ python3 -m pip install --user virtualenv
 python3 -m virtualenv .venv && source .venv/bin/activate
 ```
 
-### 2) Instalar dependencias
+## 2) Instalar dependencias
 ```bash
 pip install "Django>=5.2"
 # (opcional) guardar dependencias
 pip freeze > requirements.txt
 ```
 
-### 3) Configuración rápida
+## 3) Configuración rápida
 Por defecto se usa SQLite. Ajusta idioma y zona horaria en `sgb/settings.py`:
 ```python
 LANGUAGE_CODE = "es"
 TIME_ZONE = "America/Sao_Paulo"
 ```
 
-### 4) Migraciones y súperusuario
+## 4) Migraciones y súperusuario
 ```bash
 python manage.py migrate
 python manage.py createsuperuser
 ```
 
-### 5) Ejecutar
+## 5) Ejecutar
 ```bash
 python manage.py runserver
 ```
