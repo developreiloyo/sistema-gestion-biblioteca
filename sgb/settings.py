@@ -42,9 +42,12 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.middleware.csrf.CsrfViewMiddleware',
 ]
 
 ROOT_URLCONF = 'sgb.urls'
+
+CSRF_TRUSTED_ORIGINS = ['https://sistemagestion-sgb.l7693t.easypanel.host']
 
 TEMPLATES = [
     {
