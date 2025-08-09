@@ -55,7 +55,6 @@ TIME_ZONE = "America/Sao_Paulo"
 
 python manage.py migrate
 python manage.py createsuperuser
-```
 
 sistema-gestion-biblioteca/
 ├─ manage.py
