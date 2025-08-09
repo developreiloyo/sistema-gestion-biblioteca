@@ -129,7 +129,8 @@ Métodos: `confirmar_prestamo()`, `devolver(fecha)`
 
 ---
 
-## 🔧 Despliegue (opcional, sin Nginx)
+## 8) 🔧 Despliegue (opcional, sin Nginx)
+
 Instala WhiteNoise:
 ```bash
 pip install whitenoise
